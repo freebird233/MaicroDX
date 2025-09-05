@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 特点:由平板提供触摸, 友好的线路焊接，根据平板型号灵活修改工程文件(sldprt格式)，180mm的小打印平台也能兼容最大11寸平板（z轴拼接）。
 
 
-目前的问题:无灯光, 平板放入时很难对准c口
+目前的问题:无灯光, 平板放入时c口难以对接
 
 
 ...
@@ -53,21 +53,38 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 开始吧
 
-0.打开 "[新]电控按键。SLDPRT"，修改位于左侧特征树内的"mipad5"与"camera"草图，导出step并重新摆盘
-（小米平板5 & 5Pro 机型可忽略此步骤 ）
+-1.本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，但release中提供了模型工程文件，可以根据自己的设备尺寸修改它 
+
+  (考虑开一个分支上传您的作品，这将会帮助更多的人)
+
+
+  
+
+0.打开 "[新]电控按键.SLDPRT"，参数位于左侧特征树内的"mipad5"与"camera"草图，导出step并重新切割与摆盘
+  （小米平板5 & 5Pro 机型可忽略此步骤 ）
 <img width="1280" height="687" alt="1756996362818" src="https://github.com/user-attachments/assets/24f96f36-5d1b-4a57-8a78-6013c7cfef21" />
 
 
-1.打印3mf内的所有模型文件， 3层墙  5%填充  0.10mm层高
-打印件初步固定后，使用少量胶水涂在连接处
+1.打印所有模型文件， 3层墙  5%填充  0.10mm层高
+
+
+<img width="961" height="633" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/ecc5b479-58e1-40e5-b402-3925117ec06d" />
+
+
+打印件盘2与盘3初步固定后，使用少量胶水涂在连接处
+
+
 
 2.将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
-你也应该考虑将led关闭以节省电源损耗
+考虑将led关闭以节省电量损耗
+![IMG_20250905_181101](https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331)
+
 <img width="605" height="472" alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />
 
 设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
 
 3.将矮红轴体装入按键轮盘对应的8个槽内，轴体的两根触针应该位于靠近轮盘圆心的方向才能被正确装入
+![1757066537180](https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc)
 
 4.把每个按键触点焊上导线，测量长度，确保能穿过机台的耳机孔并连接到背部的主板内，推荐每个按键单独走线，以使得按键能与pcb烧写的键位完全一致
 为了防止安装后误触屏幕，用绝缘胶布贴住每个按键的底部。
@@ -81,7 +98,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 
 
-5.到这里为止，你可以尝试将平板慢慢装入支架内部
+5.尝试把平板慢慢装入支架内部
 如果有凸起的颗粒或支撑碎片，请用锉刀打磨
 
 6.otg直角转接头放置在平板底部，设计时留有约1.5mm高度余量，请考虑用纳米胶增高，确保完全插入平板，没有问题后涂胶固定(推荐自行设计固定件)
