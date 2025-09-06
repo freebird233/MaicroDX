@@ -9,21 +9,22 @@ Tablet-specific maimai model stand.
 
 
 
+![336be2806d97c44978283ab7c945223](https://github.com/user-attachments/assets/4c70c37c-ed36-499e-90de-66ae712c0d3a)
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 
 
 
-本项目不提供软件程序方面的介绍与下载方式
+本项目不提供软件下载方式
 
 ...
 
 
-特点:由平板提供触摸, 友好的线路焊接，根据平板型号灵活修改工程文件(sldprt格式)，180mm的小打印平台也能兼容最大11寸平板（z轴拼接）。
+特点:由平板提供触摸, 友好的线路焊接（无需焊接元件），兼容最大11寸平板（z轴拼接）。
 
 
-目前的问题:无灯光, 平板放入时c口难以对接
+目前的问题:无灯光，连接口定位精度低
 
 
 ...
@@ -51,7 +52,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 ...
 
-开始吧
+开始
 
 -1.本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，但release中提供了模型工程文件，可以根据自己的设备尺寸修改它 
 
