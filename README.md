@@ -9,7 +9,8 @@ Tablet-specific maimai model stand.
 
 
 
-![336be2806d97c44978283ab7c945223](https://github.com/user-attachments/assets/4c70c37c-ed36-499e-90de-66ae712c0d3a)
+<img src="https://github.com/user-attachments/assets/4c70c37c-ed36-499e-90de-66ae712c0d3a" width="480px">
+
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
@@ -78,7 +79,8 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 2.将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
 考虑将led关闭以节省电量损耗
-![IMG_20250905_181101](https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331)
+<img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="720px" >
+
 
 <img width="605" height="472" alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />
 
@@ -105,5 +107,4 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 6.otg直角转接头放置在平板底部，设计时留有约1.5mm高度余量，请考虑用纳米胶增高，确保完全插入平板，没有问题后涂胶固定(推荐自行设计固定件)
 用pcb板店家赠送的数据线，连接otg转接A口与pcb键盘C口，检查按键是否正常输出。
 
-最后上色，固定，大功告成
-
+最后上色，固定，完成!
