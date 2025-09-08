@@ -9,7 +9,7 @@ Tablet-specific maimai model stand.
 
 
 
-<img src="https://github.com/user-attachments/assets/4c70c37c-ed36-499e-90de-66ae712c0d3a" width="480px">
+
 
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 ...
 
 
-特点:由平板提供触摸, 友好的线路焊接（无需焊接元件），兼容最大11寸平板（z轴拼接）。
+特点:由平板提供触摸, 友好的线路焊接（无需焊接元件），兼容最大11寸平板（不缩放模型比例的前提下）。
 
 
 目前的问题:无灯光，无1p键，连接口定位精度低
@@ -108,3 +108,4 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 用pcb板店家赠送的数据线，连接otg转接A口与pcb键盘C口，检查按键是否正常输出。
 
 最后上色，固定，完成!
+<img src="https://github.com/user-attachments/assets/4c70c37c-ed36-499e-90de-66ae712c0d3a" width="720px">
