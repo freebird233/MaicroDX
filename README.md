@@ -30,8 +30,13 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 ...
 
-  物料表
+关于许可证
+-----
+MaicroDX遵循 by-nc-sa规则 。所以你只能给自己和你的朋友 DIY，不能利用这个项目赚钱，比如收费的代做，出售整机等。
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+物料表
+-------
 该项目使用的耗材 ：千货之都 PETG 1KG ：18.8元
 https://mobile.yangkeduo.com/goods.html?ps=Bo90h8nXsj
 
@@ -54,7 +59,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 ...
 
 开始
-
+------
 -1.本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，但release中提供了模型工程文件，可以根据自己的设备尺寸修改它 
 
   (考虑开一个分支上传您的作品？这将会帮助更多的人)
@@ -64,13 +69,13 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 0.打开 "[新]电控按键.SLDPRT"，参数位于左侧特征树内的"mipad5"与"camera"草图，导出step并重新切割与摆盘
   （小米平板5 & 5Pro 机型可忽略此步骤 ）
-<img width="1280" height="687" alt="1756996362818" src="https://github.com/user-attachments/assets/24f96f36-5d1b-4a57-8a78-6013c7cfef21" />
+<img width="720"  alt="1756996362818" src="https://github.com/user-attachments/assets/24f96f36-5d1b-4a57-8a78-6013c7cfef21" />
 
 
 1.打印所有模型文件， 3层墙  5%填充  0.10mm层高
 
 
-<img width="961" height="633" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/ecc5b479-58e1-40e5-b402-3925117ec06d" />
+<img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/ecc5b479-58e1-40e5-b402-3925117ec06d" />
 
 
 打印件盘2与盘3初步固定后，使用少量胶水涂在连接处
@@ -87,16 +92,19 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
 
 3.将矮红轴体装入按键轮盘对应的8个槽内，轴体的两根触针应该位于靠近轮盘圆心的方向才能被正确装入
-![1757066537180](https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc)
+<img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc" />
+
 
 4.把每个按键触点焊上导线，测量长度，确保能穿过机台的耳机孔并连接到背部的主板内，推荐每个按键单独走线，以使得按键能与pcb烧写的键位完全一致
 为了防止安装后误触屏幕，用绝缘胶布贴住每个按键的底部。
-![微信图片_20250904224124](https://github.com/user-attachments/assets/f6c62ac2-c91a-4544-923b-08250b3d07d5)
+<img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/f6c62ac2-c91a-4544-923b-08250b3d07d5" />
+
 
 
 总计16根导线，慢慢理顺装进耳机孔的侧边槽位里
 (全项目最难的部分，因为尺寸问题，没有太多走线的空间，这里请放平心态慢慢操作)
-![微信图片_20250904224129](https://github.com/user-attachments/assets/de28197e-5f19-4377-9f73-a84c55812848)
+<img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/de28197e-5f19-4377-9f73-a84c55812848" />
+
 
 
 
