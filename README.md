@@ -6,8 +6,12 @@ A tablet-specific maimai model stand with 8 external buttons for gameplay.
 [点击这里切换到中文版本](https://github.com/freebird233/MaicroDX/blob/main/README_zh.md)
 
 <br>
+<br>
+
+
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
+
 
 <br>
 
