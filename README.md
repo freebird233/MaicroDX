@@ -43,19 +43,19 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 Bill of Materials
 -----
 Materials used in this project:
-Qianhuozhidu PETG 1KG : 18.8 RMB
+Qianhuozhidu PETG 1KG : 18.8 CNY
 https://mobile.yangkeduo.com/goods.html?ps=Bo90h8nXsj
 
-1423 Single-core silver-plated wire 30awg (at least 5m) : 4.49 RMB
+1423 Single-core silver-plated wire 30awg (at least 5m) : 4.49 CNY
 https://e.tb.cn/h.hBCuZG2iKpiAnD6?tk=XCFL4pLFaQ9
 
-Low-profile red switches (10-pack) : 11 RMB
+Low-profile red switches (10-pack) : 11 CNY
 https://mobile.yangkeduo.com/goods2.html?ps=eyPVs6rclm
 
-Right-angled OTG adapter (C male to A female) : 2.73 RMB
+Right-angled OTG adapter (C male to A female) : 2.73 CNY
 https://mobile.yangkeduo.com/goods2.html?ps=BxALLyKNBC
 
-Hongyue Electronic Module: USB 9-key programmable keyboard : 33.37 RMB
+Hongyue Electronic Module: USB 9-key programmable keyboard : 33.37 CNY
 https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 (Requesting pre-assembled PCB board + data cable from the seller can reduce workload, and the price may be negotiated lower)
