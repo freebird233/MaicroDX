@@ -64,7 +64,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 开始
 ------
-`-1`本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，但[release](https://github.com/freebird233/MaicroDX/releases)中提供了模型工程文件，可以根据自己的设备尺寸修改它 
+`-1`本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，[release](https://github.com/freebird233/MaicroDX/releases)中提供了模型工程文件，你可以根据自己的设备尺寸修改它 
 
   (考虑开一个分支上传您的作品？这将会帮助更多的人)
 <br> 
@@ -72,12 +72,16 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 <br> 
 `0`打开 "[新]电控按键.SLDPRT"，参数位于左侧特征树内的"mipad5"与"camera"草图，我在草图内使用了注释功能标注各个尺寸含义（长度，高度），关于厚度(宽度)信息请右键特征，调整参数。最终导出step并重新切割与摆盘
+<br> 
+需要注意:使用比例缩放功能后，所有的公差都将一同被放大，还需要保证轴体安装处的尺寸为原来的大小。
+
 <img width="720"  alt="1756996362818" src="https://github.com/user-attachments/assets/24f96f36-5d1b-4a57-8a78-6013c7cfef21" />
 
 <br> 
 <br> 
 <br> 
 <br> 
+
 `1`打印所有模型文件， 3层墙  5%填充  0.10mm层高
 
 
@@ -91,6 +95,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 <br> 
 <br> 
+
 `2`将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
 考虑将led关闭以节省电量损耗
 <img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="720px" >
@@ -104,6 +109,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 <br> 
 <br> 
+
 `3`矮红轴体装入按键轮盘对应的8个槽内，轴体的两根触针应该位于靠近轮盘圆心的方向才能被正确装入
 <img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc" />
 
@@ -123,7 +129,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <img width="720" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/de28197e-5f19-4377-9f73-a84c55812848" />
 
 
-\<br> 
+<br> 
 <br> 
 <br> 
 <br> 
@@ -135,6 +141,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 <br> 
 <br> 
+
 `6`otg直角转接头放置在平板底部，设计时留有约1.5mm高度余量，请考虑用纳米胶增高，确保完全插入平板，没有问题后涂胶固定(推荐自行设计固定件)
 用pcb板店家赠送的数据线，连接otg转接A口与pcb键盘C口，检查按键是否正常输出。
 <br> 
