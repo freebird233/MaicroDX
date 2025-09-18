@@ -9,6 +9,13 @@ Tablet-specific maimai model stand.
 
 <br> 
 
+[测试手元](https://b23.tv/kszsryM)
+
+<br>
+
+[快速介绍](https://b23.tv/HjXk9pg)
+
+<br>
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 
@@ -63,7 +70,8 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 --颜料，画笔，电烙铁，胶水，绝缘胶布等工具没有在此列出--
 <br> 
 <br> <br> <br> 
-<img width="235"  alt="1756996362818" src="https://github.com/user-attachments/assets/2c44a2e8-2a56-4183-b43b-ac87b6f91ed7" /> <img width="200"  alt="1756996362818" src="https://github.com/user-attachments/assets/94ff99b4-a543-4434-914d-c2336afb59d7" />
+
+<img width="120"  alt="1756996362818" src="https://github.com/user-attachments/assets/94ff99b4-a543-4434-914d-c2336afb59d7" />
 
 <br> 
 （向店家要求发成品pcb单板+数据线可以减少工作量，且价格似乎还能谈）
