@@ -16,8 +16,10 @@ Tablet-specific maimai model stand.
 [快速介绍](https://b23.tv/HjXk9pg)
 
 <br>
+
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
+<br>
 
     本项目不提供软件下载方式
 
