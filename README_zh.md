@@ -89,9 +89,10 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 开始
 ------
-`-1`本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，[release](https://github.com/freebird233/MaicroDX/releases)中提供了模型工程文件，你可以根据自己的设备尺寸修改它 
-
-  (考虑开一个分支上传您的作品？这将会帮助更多的人)
+`-1`本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，[release](https://github.com/freebird233/MaicroDX/releases)中提供了模型工程文件，你可以根据自己的设备尺寸修改它。 (考虑开一个分支上传您的作品？这将会帮助更多的人)
+    1.0文件为限制长宽180mm的版本，这意味着你可以使用拓竹的a1mini等其他小打印机来制作它！为11寸平板使用时，游戏比例缩放至85%左右
+    
+ 
 <br> 
 <br> 
 <br> 
