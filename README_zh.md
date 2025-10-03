@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 <br>
 
-    本项目不提供软件下载方式
+    该项目本质为模型分享，按键通过模拟键盘输入，您需要自行解决软件方面的问题。
 
 <br> 
 
@@ -126,7 +126,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 `2`将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
 考虑将led关闭以节省电量损耗
 <img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="400" > <img width="400"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />
-
+<br> 图一为使用电烙铁拆下黑色轴座后的效果,焊点应该是清晰可见的 <br>
 设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
 
 <br> 
