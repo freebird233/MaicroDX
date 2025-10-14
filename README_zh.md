@@ -8,14 +8,11 @@ Tablet-specific maimai model stand.
 [Click here change to English](https://github.com/freebird233/MaicroDX/blob/main/README.md)
 
 <br> 
-
-[测试手元](https://b23.tv/kszsryM)
-
-<br>
-
-[快速介绍](https://b23.tv/HjXk9pg)
-
-<br>
+2025.10.14留
+<br> 
+请注意: 以下的 **部分内容** 不再适用于2.0版本模型文件，请等待作者更新readme.
+<br> 
+<br> 
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
