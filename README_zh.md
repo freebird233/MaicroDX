@@ -10,7 +10,9 @@ Tablet-specific maimai model stand.
 <br> 
 2025.10.14留
 <br> 
-请注意: 以下的 **部分内容** 不再适用于2.0版本模型文件，请等待作者更新readme.
+
+请注意: 以下的  __部分内容__  不再适用于2.0版本模型文件，请等待作者更新readme.
+
 <br> 
 <br> 
 
@@ -23,15 +25,29 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 <br> 
 
 
- * 特点: 由平板提供触摸, 友好的线路焊接（无需焊接元件），兼容最大11寸平板（不缩放模型比例的前提下）。
+ * 特点: 由平板提供触摸, 友好的线路焊接（无需打板、焊接元器件）。
 <br>
 
+ * 目前的问题: 无灯光
 
- * 目前的问题: 无灯光，无1p键，连接口定位精度低
 <br> 
 <br> 
 <br>
 <br>
+
+
+特别感谢
+-----
+- __@Fandorabox__ 为本项目命名 
+<br>
+<br>
+- __@Kaironomia__ __@Lev/ia__  提供创意灵感与技术指导
+
+<br> 
+<br> 
+<br>
+<br>
+
 
 关于许可证
 -----
@@ -58,35 +74,48 @@ https://mobile.yangkeduo.com/goods2.html?ps=BxALLyKNBC
 
 :USB 9键可烧写键盘 33.37元
 https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
-
+<br>
+（向店家要求发成品pcb单板+数据线可以减少工作量，且价格似乎还能谈）
+<br>
 
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/2eeb53ed-5334-4e8b-ad33-d457dd837c52" />
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/dd938c2f-1f32-437b-aa07-9bfcfbf8c93e" />
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/683e814b-d544-4d7f-b1e1-092834c6a232" />
 <img width="200"  alt="tb_image_share_1757697151349 jpg" src="https://github.com/user-attachments/assets/28892012-82ab-4240-aace-b1e2d40d3281" />
-<br> 
-<br> 
+
+<br>
 --颜料，画笔，电烙铁，胶水，绝缘胶布等工具没有在此列出--
-<br> 
-<br> <br> <br> 
 
-<img width="120"  alt="1756996362818" src="https://github.com/user-attachments/assets/94ff99b4-a543-4434-914d-c2336afb59d7" />
 
 <br> 
-（向店家要求发成品pcb单板+数据线可以减少工作量，且价格似乎还能谈）
-
+<br> 
 <br> 
 <br> 
 
 
-<br> 
+各版本区别
+------
+目前Maicrodx共有两个版本,分别为1.0与2.0。它们各有各的优势与不足，你可以根据自己的平板型号与制作能力综合选择。
+<br>
+<br>
+__1.0__ ：11英寸及以下首选，适中的体积与耗材用量，根据自己的平板尺寸修改Solidworks工程文件内的切除尺寸。推荐180mm打印板尺寸 
+<br>
+（NOTE:超出11寸也可以使用该模型，但你需要使用缩放比例功能，这意味着会增加一些工作量）
+<br>
+<br>
+__2.0__ ：11英寸~13英寸通用，较大的体积与耗材用量，使用模型内部的螺丝与滑块调节前后、左右、上下的位置。推荐256mm打印板尺寸
+<br>
+（NOTE：出于尺寸原因，11寸平板使用该模型将无法显示上屏幕）
+<br>
 <br> 
 <br> 
 <br> 
 
 开始
 ------
-`-1`本项目默认的模型为适配小米平板5 & 小米平板5Pro 型号，[release](https://github.com/freebird233/MaicroDX/releases)中提供了模型工程文件，你可以根据自己的设备尺寸修改它。 (考虑开一个分支上传您的作品？这将会帮助更多的人)
+<br>
+
+`-1`下载，[release](https://github.com/freebird233/MaicroDX/releases)内提供的模型工程文件，根据自己的设备尺寸修改它。 (考虑开一个分支上传您的作品？这将会帮助更多的人)
 <br> 
     1.0文件为限制长宽180mm的版本，这意味着你可以使用拓竹的a1mini等其他小打印机来制作它！为11寸平板使用时，游戏比例缩放至85%左右
     
