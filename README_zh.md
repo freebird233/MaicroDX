@@ -7,11 +7,6 @@ Tablet-specific maimai model stand.
 
 [Click here change to English](https://github.com/freebird233/MaicroDX/blob/main/README.md)
 
-<br> 
-2025.10.14留
-<br> 
-
-请注意: 以下的  __部分内容__  不再适用于2.0版本模型文件，请等待作者更新readme.
 
 <br> 
 <br> 
@@ -39,11 +34,11 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 特别感谢
 -----
 - __@Fandorabox__ 为本项目命名 
-<br>
+<br><br>
 - __@-云朵冰淇淋-__ 为本项目制作pcb连接排线,与薄膜键盘版本
-<br>
+<br><br>
 - __@糖球__ 制作了ipad air改模文件
-<br>
+<br><br>
 - __@Kaironomia__ __@Lev/ia__  创意灵感来源
 
 <br> 
