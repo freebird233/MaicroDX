@@ -4,7 +4,10 @@
 
 1.	前提准备，在开始前，请先检查您的平板为11~13英寸的型号，宽度不大于220mm。<br><br>
 2.	打印makerword通用型配置文件内的所有部件，可选两种刻印 [网页链接](https://makerworld.com.cn/zh/models/1561531) <br><br>
-<img width="720"  alt="image" src="https://github.com/user-attachments/assets/1ed6f3ef-a9dc-4e42-98a2-ad5a31cce627" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/1ed6f3ef-a9dc-4e42-98a2-ad5a31cce627" />
+<img width="290"  alt="image" src="https://github.com/user-attachments/assets/9fcad3f9-f75a-4de4-a90b-718ab4dec9be" />
+
+
 
 <br><br><br>
 3.因为模型最大兼容13寸平板，尺寸体积比上一代提升了接近一倍，打印时间也是。在这个过程中可以开始购买准备硬件部分了。
