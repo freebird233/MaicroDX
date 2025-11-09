@@ -154,11 +154,16 @@ __2.0__ ：11英寸~13英寸通用，较大的体积与耗材用量，使用模�
 <br> 
 <br> 
 
-`2`将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
+`2` 拆除九键键盘外壳，取出pcb板
+<img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="400" > 
+<br> 上图为使用电烙铁拆下黑色轴座后的效果,焊点应该是清晰可见的 <br>
+<img width="400"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/b342f600-640d-496a-a27f-6eb37281e73f" />    
+<br> ↑也可以选择直接将导线焊接在轴座上<br> 穿过打孔区域后，在圆心涂抹ab胶水凝固线材，防止受外力扯断。<br>
+
+将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
 考虑将led关闭以节省电量损耗
-<img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="400" > <img width="400"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />
-<br> 图一为使用电烙铁拆下黑色轴座后的效果,焊点应该是清晰可见的 <br>
-设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
+<img width="450"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />    <img width="300"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/13a27dda-3d21-4a31-9b79-2fc683db114c" />   
+<br>设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
 
 <br> 
 <br> 
