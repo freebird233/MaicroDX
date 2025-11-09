@@ -40,16 +40,31 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 拆除九键键盘外壳，取出pcb板<br>
 <img src="https://github.com/user-attachments/assets/c978c0e6-fdb4-48b0-9297-3cd38f5da331"  width="400" > 
 <br> 上图为使用电烙铁拆下黑色轴座后的效果,焊点应该是清晰可见的 <br>
-<br> (也可以选择直接将导线焊接在轴座上)<br> 穿过打孔区域后，在圆心涂抹ab胶水凝固线材，防止受外力扯断。<br>
+ (也可以选择直接将导线焊接在轴座上，是一样的效果)<br>
 <br>
-<img width="450"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />    <img width="300"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/13a27dda-3d21-4a31-9b79-2fc683db114c" />   
+<br> 
 <br>
+
+<img width="500"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/68191312-93d4-4be2-b3b4-c0a97311866e" />    <img width="300"  alt="80c00f655ec31978e7290bde7d4e652" src="https://github.com/user-attachments/assets/13a27dda-3d21-4a31-9b79-2fc683db114c" />   
 将pcb键盘连接电脑，下载由店家提供的软件，进行键位烧写
 考虑将led关闭以节省电量损耗
 <br>设置软件:https://www.jianguoyun.com/p/DVZ2nxEQ1raWDRiXhOcFIAA
-
-<img width="1619" height="1015" alt="image" src="https://github.com/user-attachments/assets/d4dccb56-dccd-4609-9205-d288a339b9d5" />
+<br>
+<br>
+<br> 
+<br>
+<br>
+<img width="480" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc" /> <img width="310" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/80e9c5f5-3ccb-4673-8051-260165546d74" /><br> 
+矮红轴体装入按键轮盘对应的8个槽内，轴体的两根触针应该位于靠近轮盘圆心的方向才能被正确装入
+<br> 
+<br> 
+<br> 
+<br>
+<br>
+<img width="800" height="1015" alt="image" src="https://github.com/user-attachments/assets/d4dccb56-dccd-4609-9205-d288a339b9d5" />
+<br>
 完成按键控制部分，最后它看起来应该是这样的。
+<br> 线材穿过打孔区域后，在孔圆心涂抹ab胶水固定，防止受外力扯断。
 <br><br><br>
 
 # 模型拼装
