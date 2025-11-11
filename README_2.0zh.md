@@ -77,18 +77,34 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 <img width="720"  alt="image" src="https://github.com/user-attachments/assets/6f6838a1-fce3-45f1-9cb4-51af92a559c9" />
 
-![PXL_20251105_234111692](https://github.com/user-attachments/assets/536d0d2f-b240-4dac-abc7-358f5014298a)
 
-![PXL_20251105_234207001](https://github.com/user-attachments/assets/4276d193-4a71-4da7-9f38-2c8bce484071)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/536d0d2f-b240-4dac-abc7-358f5014298a" />
 
-![PXL_20251105_234244836](https://github.com/user-attachments/assets/9db0e24f-046d-4548-b4a7-70331a12a2f4)
 
-![PXL_20251105_234311681](https://github.com/user-attachments/assets/e8ec7c97-4f7d-4507-bb25-df997a1645f0)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/4276d193-4a71-4da7-9f38-2c8bce484071" />
 
-![PXL_20251106_011403337](https://github.com/user-attachments/assets/0f7ead35-1422-481c-a91d-e7d067f15196)
 
-![PXL_20251106_011211589](https://github.com/user-attachments/assets/6f436b0d-6a2f-40fa-be90-3a488913eddd)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/9db0e24f-046d-4548-b4a7-70331a12a2f4" />
 
-![PXL_20251106_011309578](https://github.com/user-attachments/assets/b2571804-ac5d-4fe9-adbb-833fd5690a9f)
 
-![PXL_20251106_011316512](https://github.com/user-attachments/assets/cd2f2f83-7a2b-429e-a080-bc4111850efe)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/e8ec7c97-4f7d-4507-bb25-df997a1645f0" />
+
+
+<img width="360"  alt="image" src="https://github.com/user-attachments/assets/0f7ead35-1422-481c-a91d-e7d067f15196" />
+
+
+<img width="360"  alt="image" src="https://github.com/user-attachments/assets/6f436b0d-6a2f-40fa-be90-3a488913eddd" />
+
+
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/b2571804-ac5d-4fe9-adbb-833fd5690a9f" />
+
+
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/cd2f2f83-7a2b-429e-a080-bc4111850efe" />
+
+<br><br>
+<img width="360"  alt="image" src="https://github.com/user-attachments/assets/3f657650-3e51-47b0-a890-3402b98bdf41" />
+<img width="360"  alt="image" src="https://github.com/user-attachments/assets/887eed74-6b5c-4180-83d2-aa0c2d6a359a" />
+
+
+
+
