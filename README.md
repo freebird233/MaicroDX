@@ -5,7 +5,7 @@ Tablet-specific maimai model stand.
 
 <br> 
 
-[点我切换中文](https://github.com/freebird233/MaicroDX/blob/main/README.md)
+[点我切换中文](https://github.com/freebird233/MaicroDX/blob/main/README_zh.md)
 
 <br> 
 <br> 
