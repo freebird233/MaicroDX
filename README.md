@@ -39,7 +39,7 @@ Special Thanks
 <br><br>
 - __@糖球__ for uploading the iPad Air modification configuration file.
 <br><br>
-- __@Kaironomia__ and __@Lev/ia__ for the original inspiration.
+- __@Kaironomia__ and __@Lev/ia__ __@whowechina__ for the original inspiration.
 
 <br> 
 <br> 
