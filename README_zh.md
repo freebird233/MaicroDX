@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 <br><br>
 - __@-云朵冰淇淋-__ 为本项目制作pcb连接排线,与薄膜键盘版本
 <br><br>
-- __@糖球__ 上传ipad air改模配置文件
+- __@糖球__ 分享11寸2.0配置文件
 <br><br>
 - __@Kaironomia__ __@Lev/ia__ __@whowechina__ 创意来源
 
