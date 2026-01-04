@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 <br><br>
 - __@糖球__ 上传ipad air改模配置文件
 <br><br>
-- __@Kaironomia__ __@Lev/ia__  创意来源
+- __@Kaironomia__ __@Lev/ia__ __@whowechina__ 创意来源
 
 <br> 
 <br> 
