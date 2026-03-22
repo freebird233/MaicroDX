@@ -2,6 +2,10 @@
 一个专为平板设计的maimai模型支架，并提供8个可用于游戏的外置按键
 <br> 
 Tablet-specific maimai model stand.
+<br> 
+
+![cc44eeaf70243d79d62d4cff7a3895c](https://github.com/user-attachments/assets/51786eb5-ec9f-414d-a4b9-172d37effd13)
+
 
 <br> 
 
