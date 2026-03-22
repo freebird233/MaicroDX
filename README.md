@@ -2,7 +2,10 @@
 A maimai model stand specifically designed for tablets, featuring 8 external buttons usable for gameplay.
 <br> 
 Tablet-specific maimai model stand.
+<br> 
+![cc44eeaf70243d79d62d4cff7a3895c](https://github.com/user-attachments/assets/51786eb5-ec9f-414d-a4b9-172d37effd13)
 
+<br> 
 <br> 
 
 [点我切换中文](https://github.com/freebird233/MaicroDX/blob/main/README_zh.md)
