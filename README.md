@@ -3,7 +3,8 @@ A maimai model stand specifically designed for tablets, featuring 8 external but
 <br> 
 Tablet-specific maimai model stand.
 <br> 
-![cc44eeaf70243d79d62d4cff7a3895c](https://github.com/user-attachments/assets/51786eb5-ec9f-414d-a4b9-172d37effd13)
+<img width="1706" height="1279" alt="e449fa552e9865993d151feb255b54a1" src="https://github.com/user-attachments/assets/cb45452c-7798-4b77-aeb3-77826205fb26" />
+
 
 <br> 
 <br> 
