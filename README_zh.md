@@ -3,8 +3,8 @@
 <br> 
 Tablet-specific maimai model stand.
 <br> 
+<img width="1706" height="1279" alt="e449fa552e9865993d151feb255b54a1" src="https://github.com/user-attachments/assets/b28499f1-7070-442b-9567-daff4ade0bbf" />
 
-![cc44eeaf70243d79d62d4cff7a3895c](https://github.com/user-attachments/assets/51786eb5-ec9f-414d-a4b9-172d37effd13)
 
 
 <br> 
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 <br> 
 
 
- * 特点: 由平板提供触摸, 友好的线路连接（无需打板、焊接元器件）。
+ * 特点: 由平板提供触摸, 友好的线路连接，无需五金件
 <br>
 
  * 目前的问题: 无灯光
