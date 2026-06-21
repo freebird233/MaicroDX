@@ -12,7 +12,8 @@ Tablet-specific maimai model stand.
 [Click here change to English](https://github.com/freebird233/MaicroDX/blob/main/README.md)
 
 
-<br> 
+<br> <br> 
+近期变化：2026.6.20 灯光一体化轮盘正在制作 <br> 
 <br> 
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
@@ -27,7 +28,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
  * 特点: 由平板提供触摸, 友好的线路连接，无需五金件
 <br>
 
- * 目前的问题: 无灯光
+
 
 <br> 
 <br> 
@@ -44,7 +45,7 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 <br><br>
 - __@-云朵冰淇淋-__ 为本项目制作pcb连接排线方案 (makerword)
 <br><br>
-- __@糖球__ 分享11寸2.0配置文件 （makerword）
+- __@糖球__ __@简森__ 分享打印配置文件 （makerword）
 <br><br>
 - __@Kaironomia__ __@Lev/ia__ __@whowechina__ 创意来源
 
