@@ -64,7 +64,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 <br>
 <br>
-<img width="800" height="1015" alt="image" src="https://github.com/user-attachments/assets/d4dccb56-dccd-4609-9205-d288a339b9d5" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d4dccb56-dccd-4609-9205-d288a339b9d5" />
 <br>
 完成按键控制部分，最后它看起来应该是这样的。
 <br> 线材穿过打孔区域后，在孔圆心涂抹ab胶水固定，防止受外力扯断。
@@ -75,7 +75,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 
 # 模型拼装
 <br>
-待施工
+
 <br>
 
 <img width="720"  alt="image" src="https://github.com/user-attachments/assets/6f6838a1-fce3-45f1-9cb4-51af92a559c9" />
