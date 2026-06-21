@@ -41,7 +41,7 @@ Special Thanks
 <br><br>
 - __@-云朵冰淇淋-__ for creating the PCB connecting ribbon cable and the membrane keyboard version for this project.
 <br><br>
-- __@糖球__ for uploading the iPad Air modification configuration file.
+- __@糖球__ and __@简森__ for uploading the modification configuration file.
 <br><br>
 - __@Kaironomia__ and __@Lev/ia__ __@whowechina__ for the original inspiration.
 
