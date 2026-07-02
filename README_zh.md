@@ -13,7 +13,7 @@ Tablet-specific maimai model stand.
 
 
 <br> <br> 
-近期变化：2026.6.20 灯光一体化轮盘正在制作 <br> 
+
 <br> 
 
 https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
@@ -32,6 +32,10 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 <br> 
 <br> 
+<br> 
+
+进阶配件: [MaicroDX Controller](https://github.com/freebird233/MaicroDX-Controller/tree/main)
+
 <br>
 
 [MaicroDX技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
