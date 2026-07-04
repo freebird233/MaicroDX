@@ -45,8 +45,12 @@ https://github.com/user-attachments/assets/7f807ca8-5c6a-4d6a-9782-b4f848022885
 
 特别感谢
 -----
-- __@Fandorabox__ 为本项目命名 
-<br><br>
+- __@Fandorabox__ 为本项目命名 <br>
+<br>
+-  **「和音屋」立直麻将/音游/电玩**提供实体机台作为扫描参考 <br>
+<br>
+- **嘉立创 & 嘉立创eda** 为个人创作者降本增效 <br>
+<br>
 - __@-云朵冰淇淋-__ 为本项目制作pcb连接排线方案 (makerword)
 <br><br>
 - __@糖球__ __@简森__ 分享打印配置文件 （makerword）
