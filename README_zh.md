@@ -1,4 +1,4 @@
-# MaicroDX
+# MaicroDX V1版本指南
 一个专为平板设计的maimai模型支架，并提供8个可用于游戏的外置按键
 <br> 
 Tablet-specific maimai model stand.
