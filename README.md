@@ -111,28 +111,7 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 
 
-Version Differences
-------
-Currently, there are two versions of MaicroDX: 1.0 and 2.0. They each have their own pros and cons. You can choose based on your tablet model and fabrication capabilities.
-<br>
-<br>
-__1.0__ : Suitable for 11-inch and smaller tablets. Moderate size and material usage. Modify the cutout dimensions in the Solidworks project file according to your tablet's dimensions. A 180mm print bed size is recommended.
-<br>
-(Note: You can also use this model for tablets larger than 11 inches, but you will need to use the scaling function, which will increase the workload slightly.)
-<br>
-<br>
-__2.0__ : Universal for 11-inch to 13-inch tablets. Larger size and material usage. It uses screws and sliders within the model to adjust front/back, left/right, and up/down positions. A 256mm print bed size is recommended.
-<br>
-(Note: Due to size constraints, an 11-inch tablet using this model will not show the full top screen. You will need to enable compact mode and zoom the screen to 1.0x or above.)
-<br>
-<br>
 
-If you decide to use the 2.0 version model, please [click here](https://github.com/freebird233/MaicroDX/blob/main/README_2.0en.md)
-<br><br>
-If you decide to use the 1.0 version model, please __continue reading below__
-<br> 
-<br> 
-<br> 
 
 Getting Started
 ------
