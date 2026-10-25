@@ -97,8 +97,7 @@ https://mobile.yangkeduo.com/goods2.html?ps=BxALLyKNBC
 :USB 9键可烧写键盘 33.37元
 https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br>
-（向店家要求发成品pcb单板+数据线可以减少工作量，且价格似乎还能谈）
-<br>
+
 
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/2eeb53ed-5334-4e8b-ad33-d457dd837c52" />
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/dd938c2f-1f32-437b-aa07-9bfcfbf8c93e" />
@@ -115,28 +114,6 @@ https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br> 
 
 
-各版本区别
-------
-目前Maicrodx共有两个版本,分别为1.0与2.0。它们各有各的优势与不足，你可以根据自己的平板型号与制作能力综合选择。
-<br>
-<br>
-__1.0__ ：11英寸及以下，适中的体积与耗材用量，根据自己的平板尺寸修改Solidworks工程文件内的切除尺寸。推荐180mm打印板尺寸 
-<br>
-（NOTE:超出11寸也可以使用该模型，但你需要使用缩放比例功能，这意味着会增加一些工作量）
-<br>
-<br>
-__2.0__ ：11英寸~13英寸通用，较大的体积与耗材用量，使用模型内部的螺丝与滑块调节前后、左右、上下的位置。，推荐256mm打印板尺寸
-<br>
-（NOTE：出于尺寸原因，11寸平板使用该模型将无法显示完整的上屏幕，同时需要打开紧凑模式并将画面放大1.0倍以上）
-<br>
-<br>
-
-如果您决定使用2.0版本模型，请[点我](https://github.com/freebird233/MaicroDX/blob/main/README_2.0zh.md)
-<br><br>
-如果您决定使用1.0版本模型，请 __继续往下阅读__
-<br> 
-<br> 
-<br> 
 
 开始
 ------
