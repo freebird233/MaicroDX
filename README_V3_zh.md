@@ -37,5 +37,5 @@ ws2812灯珠 https://e.tb.cn/h.jez4mzi5QyXiVmW?tk=45fETDGuaXV (108灯珠规格 0
 <br>
 
 ws2812灯光通讯逻辑： <br>
-主控 --FPC-Din--> 轮盘 --FPC-Dout--> 主控 ----> 头灯
+主控 --FPC-Din--> 轮盘 --FPC-Dout--> 主控 ----> 头灯 <br>
 当灯光出现问题，按照此逻辑排查问题
