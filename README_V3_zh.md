@@ -3,8 +3,9 @@
 <br><img width="200" alt="微信图片_20261025023051_59_2" src="https://github.com/user-attachments/assets/b291b778-229c-4c78-aa2a-f10c4e70cfc5" />
 
 现在制作框体所有必要的文件都已经上传。 <br>
-
-教程部分内容正在施工中...，顺序可能比较杂乱
+All the necessary documents required for production have now been uploaded.<br><br>
+如果您现在还能看到这句话，说明教程的部分内容仍在建设中……顺序可能较为混乱，谨此致歉。<br>
+If you are still seeing this message, it means that certain sections of the tutorial are still under construction... The order may be somewhat disorganised, and we apologise for any inconvenience
 
 <br>
 <br>
@@ -46,8 +47,19 @@ ws2812灯珠 https://e.tb.cn/h.jez4mzi5QyXiVmW?tk=45fETDGuaXV (108灯珠规格 0
 <br>
 
 轮盘部分的复刻指南跳转>> [MaicroDX Controller](https://github.com/freebird233/MaicroDX-Controller/tree/main)
-<br>
+<br><br>
 
+<div align="center"><img width="800"  alt="微信图片_20261026222227_75_2" src="https://github.com/user-attachments/assets/14f05b7e-5bca-4924-97aa-db1ea810b613" /><br>头灯走线示意图<br></div>
+<br> **Step1** : ws2812输入端焊接三根长度适中的导线，沿着红色箭头方向安装,头壳的背后的斜孔进入，直到灯条完全填充u形的区域。
+<br> **Step2** :将导线沿着上方全部抽出。
+<br> **Step3** :将导线沿着蓝色箭头方向，穿过模型的垂直孔，向下走线。
+
+
+<br><br>
+<br> <div align="center">
 ws2812灯光通讯逻辑： <br>
 主控 --> FPC Din --> 轮盘 --> FPC Dout --> 主控 --> 头灯 <br>
 当灯光出现问题，按照此逻辑排查问题
+</div>
+
+
