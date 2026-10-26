@@ -1,8 +1,6 @@
 # MaicroDX V1 Guie
 A maimai model stand designed specifically for tablets, providing 8 external buttons for gaming.
 
-[点击切换为中文](https://github.com/freebird233/MaicroDX/blob/main/README_zh.md)
-
 <br> 
 <img width="1706" height="1279" alt="e449fa552e9865993d151feb255b54a1" src="https://github.com/user-attachments/assets/b28499f1-7070-442b-9567-daff4ade0bbf" />
 
