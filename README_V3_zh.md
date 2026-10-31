@@ -1,6 +1,11 @@
 
 # Maicrodx V3模型指南
-<br><img width="200" alt="微信图片_20261025023051_59_2" src="https://github.com/user-attachments/assets/b291b778-229c-4c78-aa2a-f10c4e70cfc5" />
+
+<br>
+<br>
+
+[what's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)
+
 
 现在制作框体所有必要的文件都已经上传。 <br>
 
