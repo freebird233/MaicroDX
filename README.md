@@ -2,7 +2,7 @@
 <div align="center"><img width="300" alt="06c462dc02f1e58b80f72879e290c0c0" src="https://github.com/user-attachments/assets/40c6f20b-0bf9-4ba8-872a-eb2473313567" />
 
 
-这是一个**专为平板设计**的maimai风格框体，提供9个可用于游戏的外置按键 <br>
+一个**专为平板设计**的maimai风格框体，提供9个可用于游戏的外置按键 <br>
 >  项目本质为模型&外围电路分享，按键通过hid键控信号输入，您需要自行解决软件方面的问题。</div>
 <br> 
 <br> 
@@ -74,9 +74,9 @@ __创意来源__
     
 | <div align="center">版本 | <div align="center">主要变化 | <div align="center">工作量 | <div align="center">电路部分 |
 | :--- | :--- |  :--- |  :--- | 
-|V1|雏形确定|sw改模 打印 装配 飞线 涂色| 成品板|
-|V2|添加可调节滑块|打印 装配 飞线| 成品板|
-|V3|完善外围电路，补齐细节(双尺寸分支)|订板 焊件 烧录 打印 布线| 专用板|
+|V1|雏形确定|sw改模 打印 装配 飞线 涂色| 成品板x1|
+|V2|添加可调节滑块|打印 装配 飞线| 成品板x1|
+|V3|完善外围电路，补齐细节(双尺寸分支)|订板 焊件 烧录 打印 布线| 专用板x2|
 
 <img width="182" alt="3e5f552fe837423b2e954b54d62e3780" src="https://github.com/user-attachments/assets/67d717a9-4aab-460d-bc65-13939975c981" /><img width="300"  alt="51630868b36ffab3177eb6512c230b2a" src="https://github.com/user-attachments/assets/8e59ec72-b5a4-4f8c-a87e-f268b6bd9372" /><img width="316" alt="fbeb6f0014a2cd0a69885e46d06b210f" src="https://github.com/user-attachments/assets/640844bf-64e2-4b6c-b9d4-9fb4d8efd8b2" />
 
