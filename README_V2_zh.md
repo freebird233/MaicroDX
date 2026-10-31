@@ -2,7 +2,7 @@
 # Maicrodx V2模型指南
 <br>
 
-1.	前提准备，在开始前，请先检查您的平板为11~13英寸的型号，宽度不大于220mm。<br><br>
+1.	前提准备，在开始前，请先检查您的平板为11~13英寸的型号，宽度不大于220mm。请注意当使用11英寸的平板时，左右会有黑边，而且上屏无法显示,这是因为框体太大了<br><br>
 2.	打印makerword通用型配置文件内的所有部件，可选两种刻印 [网页链接](https://makerworld.com.cn/zh/models/1561531) <br><br>
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/1ed6f3ef-a9dc-4e42-98a2-ad5a31cce627" />
 <img width="290"  alt="image" src="https://github.com/user-attachments/assets/9fcad3f9-f75a-4de4-a90b-718ab4dec9be" />
@@ -14,10 +14,16 @@
 <br><br>
 1423单芯镀银线 30awg (至少5m) ：4.49元
 https://e.tb.cn/h.hBCuZG2iKpiAnD6?tk=XCFL4pLFaQ9
+<br><br>
+
+**轴体**
 <br>
-矮红轴 (10颗装) ：11元
-https://mobile.yangkeduo.com/goods2.html?ps=eyPVs6rclm
-<br>
+旧:高特矮轴 (直接用上面所提到的 打印配置内的模型)
+
+新:cheery矮红轴 (轮盘部分单独用此打印配置)<br>
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d4b4e520-0b83-4166-9ac0-41d7268bb10c" />
+
+<br><br>
 otg直角转接头 (C公 to A母)  2.73元
 https://mobile.yangkeduo.com/goods2.html?ps=BxALLyKNBC
 <br>
