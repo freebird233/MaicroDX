@@ -3,9 +3,9 @@
 <br><img width="200" alt="微信图片_20261025023051_59_2" src="https://github.com/user-attachments/assets/b291b778-229c-4c78-aa2a-f10c4e70cfc5" />
 
 现在制作框体所有必要的文件都已经上传。 <br>
-All the necessary documents required for production have now been uploaded.<br><br>
+
 如果您现在还能看到这句话，说明教程的部分内容仍在建设中……顺序可能较为混乱，谨此致歉。<br>
-If you are still seeing this message, it means that certain sections of the tutorial are still under construction... The order may be somewhat disorganised, and we apologise for any inconvenience
+
 
 <br>
 <br>
