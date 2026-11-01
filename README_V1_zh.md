@@ -108,8 +108,6 @@ Step 5
 <img width="480" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc" /> <img width="310" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/80e9c5f5-3ccb-4673-8051-260165546d74" />
 <br> 
 <br> 
-2026.10更新: 轴体修改为cherry家的矮轴系列 ，建议复刻优先使用这个打印配置。修复了很多问题，按键也可以横着打印来减少层纹了<br> 
-https://makerworld.com/zh/models/1769239 <br> <img width="592" height="592" alt="image" src="https://github.com/user-attachments/assets/ebc0b0ce-c38f-4b8d-b397-9fa83f22b950" />
 
 
 
