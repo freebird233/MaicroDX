@@ -23,6 +23,8 @@ V3模型分为适配 11英寸 与 12.5+英寸 平板的两个版本。<br>
 下载makerworld网页内的[V3]模型<br>
 https://makerworld.com.cn/zh/models/1561531 <br>
 <div align="center"><img width="500" alt="Snipaste_2026-10-26_17-49-43" src="https://github.com/user-attachments/assets/6c206ae4-638b-40e0-91c6-d5f1045adfbd" /> 
+ <img width="350"  alt="image" src="https://github.com/user-attachments/assets/394a536e-dbd0-4ef1-bf3d-1ac52f8b2cb9" />
+
 <br>切片文件
 </div>
 <br>
@@ -105,9 +107,18 @@ ws2812灯光通讯逻辑： <br>
 <br>
 
 <br><br>
-灯光布置取线长度
-
+# 灯光布置取线长度
+<div align="center">
+  
 | 类型\尺寸 | 11英寸框 | 12英寸框 |
 | :--- | :--- |  :--- |
 | ws2812 | 25颗 | 31颗 |
 | cob | 53cm | 61cm |
+
+<br>
+<br>
+
+<img width="1000" alt="c71ba10e22d39109f54d0fa14471b119" src="https://github.com/user-attachments/assets/ccb61cf2-b615-46ca-a5cf-d419d992bd1b" />
+
+</div>
+
