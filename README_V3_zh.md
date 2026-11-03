@@ -17,8 +17,8 @@
 <br>
 <br>
 
-开始前准备
------
+# 打印模型
+
 
 V3模型分为适配 11英寸 与 12.5+英寸 平板的两个版本。<br>
 在互联网查找您的平板外围尺寸<br>
@@ -34,6 +34,25 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 使用切片软件内的尺子工具量取框体尺寸,只需要确认平板屏幕的短边能否放入，厚度和长度在框体内可以调整<br>
 确认无误后，开始打印
 
+
+<br><br>
+# 采购元器件
+除了电路板（BOM表）的器件外 还有另外需要购买的内容如下：
+<br>
+<img width="100"  alt="7f410a41bbb1690c873d6deabcacb916" src="https://github.com/user-attachments/assets/3c5693ba-8e29-4881-9f6d-408bb0c839b2" />DCDC可调降压模块 https://mobile.yangkeduo.com/goods2.html?ps=X5uzsILUIu
+<br>
+<img width="100"  alt="7d21361d32f2b419bc44bd6332f07f48" src="https://github.com/user-attachments/assets/7dd8d886-2a8f-474d-aa66-3ab99add5063" />
+5V cob灯带 https://mobile.yangkeduo.com/goods1.html?ps=PZzBEKW0eg (3mm宽 1米)
+<br>
+
+<img width="100"  alt="366486b9eb7dd0acfdc6ddf0f57b6d35" src="https://github.com/user-attachments/assets/5ff13a28-e148-4ec9-a05a-f42681099d92" />ws2812灯珠 https://e.tb.cn/h.jez4mzi5QyXiVmW?tk=45fETDGuaXV (100灯/米
+ 0.5米 裸板)
+<br>
+<img width="100"  alt="56d22c5dc6d6c641a3a653eefd909377" src="https://github.com/user-attachments/assets/c99a3a86-27e3-4646-9d53-7573cbeeb5fd" />CtC数据线 https://mobile.yangkeduo.com/goods2.html?ps=SiMcasrXyJ (双头c 1条装)
+<br>
+<br>
+
+
 <br>
 <br>
 如果打印后发现层纹过于明显，则需要进行打磨。否则安装灯条后层纹会被照得更加明显。<br>
@@ -48,20 +67,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <br>
 
-除了BOM内标注了电路板会使用到的电子元器件 还有另外需要购买的器件如下：
-<br>
-<img width="100"  alt="7f410a41bbb1690c873d6deabcacb916" src="https://github.com/user-attachments/assets/3c5693ba-8e29-4881-9f6d-408bb0c839b2" />DCDC可调降压模块 https://mobile.yangkeduo.com/goods2.html?ps=X5uzsILUIu
-<br>
-<img width="100"  alt="7d21361d32f2b419bc44bd6332f07f48" src="https://github.com/user-attachments/assets/7dd8d886-2a8f-474d-aa66-3ab99add5063" />
-5V cob灯带 https://mobile.yangkeduo.com/goods1.html?ps=PZzBEKW0eg (3mm宽 1米)
-<br>
 
-<img width="100"  alt="366486b9eb7dd0acfdc6ddf0f57b6d35" src="https://github.com/user-attachments/assets/5ff13a28-e148-4ec9-a05a-f42681099d92" />ws2812灯珠 https://e.tb.cn/h.jez4mzi5QyXiVmW?tk=45fETDGuaXV (100灯/米
- 0.5米 裸板)
-<br>
-<img width="100"  alt="56d22c5dc6d6c641a3a653eefd909377" src="https://github.com/user-attachments/assets/c99a3a86-27e3-4646-9d53-7573cbeeb5fd" />CtC数据线 https://mobile.yangkeduo.com/goods2.html?ps=SiMcasrXyJ (双头c 1条装)
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -85,6 +91,20 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 
 <br><br>
+# 框体灯光布置
+本节详细描述mdx框体内灯光部分内容,在开始前，先确定两种灯带的裁剪长度
+<div align="center">
+  
+|  <div align="center"> 类型\尺寸   |   <div align="center">11英寸框   |   <div align="center">12英寸框   |
+| :--- | :--- |  :--- |
+|   <div align="center">ws2812   |   <div align="center">25颗   |   <div align="center">31颗   |
+|   <div align="center">cob   |   <div align="center">53cm   |   <div align="center">61cm   |
+<div align="center"><img width="700" alt="c71ba10e22d39109f54d0fa14471b119" src="https://github.com/user-attachments/assets/ccb61cf2-b615-46ca-a5cf-d419d992bd1b" />
+
+</div>
+<br>
+<br><br>
+<br>
 
 <div align="center"><img width="800"  alt="微信图片_20261026222227_75_2" src="https://github.com/user-attachments/assets/14f05b7e-5bca-4924-97aa-db1ea810b613" /><br>头灯走线示意图<br></div>
 <br> 
@@ -109,23 +129,7 @@ ws2812灯光通讯逻辑： <br>
 <br>
 
 <br><br>
-# 灯光布置取线长度
-<div align="center">
-  
-| 类型\尺寸 | 11英寸框 | 12英寸框 |
-| :--- | :--- |  :--- |
-| ws2812 | 25颗 | 31颗 |
-| cob | 53cm | 61cm |
 
-<br>
-<br>
-
-<img width="1000" alt="c71ba10e22d39109f54d0fa14471b119" src="https://github.com/user-attachments/assets/ccb61cf2-b615-46ca-a5cf-d419d992bd1b" />
-
-</div>
-<br>
-<br><br>
-<br>
 
 # 无灯光轮盘
 <br>
