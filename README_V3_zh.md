@@ -7,9 +7,11 @@
 [what's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)
 
 
-现在制作框体所有必要的文件都已经上传。 <br>
+现在制作所需的所有必要的文件都已经上传。 <br>
 
 如果您现在还能看到这句话，说明教程的部分内容仍在建设中……顺序可能较为混乱，谨此致歉。<br>
+
+如果有遗漏，请在issues区留言
 
 
 <br>
@@ -121,4 +123,43 @@ ws2812灯光通讯逻辑： <br>
 <img width="1000" alt="c71ba10e22d39109f54d0fa14471b119" src="https://github.com/user-attachments/assets/ccb61cf2-b615-46ca-a5cf-d419d992bd1b" />
 
 </div>
+<br>
+<br><br>
+<br>
 
+# 无灯光轮盘
+<br>
+<br>
+如果不需要灯光,可以按照下文制作无灯光版本的控制轮盘，这样复刻难度会降低. 同样能在v3框体上使用
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+ 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f20d0d59-8445-4485-8bdd-f4cf886d131d" /><br>
+打印这个配置文件</div>
+<br>
+<br>
+<div align="center">
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/35f810d8-5e0c-46f0-a25a-82a08cb7a965" />
+<br>
+外控板只贴必要的元器件
+<br>
+<br>
+<br>
+<br>
+<img width="500"  alt="2c12e648aacdde16a89e48ecf2893bba" src="https://github.com/user-attachments/assets/33313f79-54bc-4519-9526-17a48ffc65d4" /><img width="500"  alt="403b71811d136e94a510ad45d4fbbbc9" src="https://github.com/user-attachments/assets/d2b3321e-67fe-4680-be17-75a06073881c" /><br>
+钳子剪开横条，把线缆布置进去
+<br>
+<br><br>
+<br>
+<img width="600"  alt="3e267254ec4e80eb1256ba0a3bd9d5b9" src="https://github.com/user-attachments/assets/a19a6863-5bf6-42cd-83d6-1fb2aff3efe0" /><img width="300"  alt="b8617a2020be5331d3dc222d81dfcb6f" src="https://github.com/user-attachments/assets/51834f00-f553-4d4e-9bb6-a1a90ddda0d4" /><br>
+盖上防尘盖 , 线缆两边点一些热熔胶加固
+<br>
+<br><br>
+<br>
+<img width="600"  alt="7862b3dba1522f253971b73db285749f" src="https://github.com/user-attachments/assets/f260eaf9-3d7d-4319-9159-7fbcb3d83d1a" />
+最终效果<br>
+<br>
+</div>
