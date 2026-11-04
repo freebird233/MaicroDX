@@ -1,4 +1,5 @@
 
+
 # Maicrodx V3模型指南
 
 <br>
@@ -11,7 +12,6 @@
 
 如果您现在还能看到这句话，说明教程的部分内容仍在建设中……顺序可能较为混乱，谨此致歉。<br>
 
-如果有遗漏，请在issues区留言
 
 
 <br>
@@ -108,6 +108,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 
 <div align="center"><img width="800"  alt="微信图片_20261026222227_75_2" src="https://github.com/user-attachments/assets/14f05b7e-5bca-4924-97aa-db1ea810b613" /><br>头灯走线示意图<br></div>
 <br> 
+</div>
 
 **Step1** 
 : ws2812输入端焊接三根长度适中的导线，沿着红色箭头方向安装,头壳的背后的斜孔进入，直到灯条完全填充u形的区域。
@@ -117,6 +118,11 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 
 <br><br>
 <br> <div align="center">
+<br>
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/67dcd6f4-3446-4291-9c9e-c95facb81cda" />
+
+<br>
+
 ws2812灯光通讯逻辑： <br>
 主控 --> FPC Din --> 轮盘 --> FPC Dout --> 主控 --> 头灯 <br>
 当灯光出现问题，按照此逻辑排查问题
@@ -172,3 +178,16 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 最终效果<br>
 <br>
 </div>
+备注: 烧录带灯的固件时，上电需要等待5s左右才会工作
+
+
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
+左 75mm
+<br>
+右 210mm
+
+
