@@ -169,7 +169,8 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br>
 <br>
 <br>
-为每个按键的两个触角飞线，让轮盘外壳上的数字位对应板子上的数字，另一个触角接GND，一共需要飞16根线 <br>
+ <img width="900" height= alt="image" src="https://github.com/user-attachments/assets/0eea48f7-3ef0-465b-b602-967551f5211e" /><br>
+为每个按键的两个触角飞线，让轮盘外壳上的数字位对应板子上的数字，另一个触角接GND，一共需要飞16根线 <br><br><br><br>
 <img width="500"  alt="2c12e648aacdde16a89e48ecf2893bba" src="https://github.com/user-attachments/assets/33313f79-54bc-4519-9526-17a48ffc65d4" /><img width="500"  alt="403b71811d136e94a510ad45d4fbbbc9" src="https://github.com/user-attachments/assets/d2b3321e-67fe-4680-be17-75a06073881c" /><br>
 钳子剪开横条，把线缆布置进去
 <br>
