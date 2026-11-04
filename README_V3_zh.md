@@ -103,7 +103,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 |  <div align="center"> 类型\尺寸   |   <div align="center">11英寸框   |   <div align="center">12英寸框   |
 | :--- | :--- |  :--- |
 |   <div align="center">ws2812   |   <div align="center">25颗   |   <div align="center">31颗   |
-|   <div align="center">cob   |   <div align="center">53cm   |   <div align="center">61cm   |
+|   <div align="center">cob   |   <div align="center">≈53cm   |   <div align="center">≈61cm   |
 <div align="center"><img width="700" alt="c71ba10e22d39109f54d0fa14471b119" src="https://github.com/user-attachments/assets/ccb61cf2-b615-46ca-a5cf-d419d992bd1b" />
 
 </div>
@@ -181,7 +181,7 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br>
 <br><br>
 <br>
-<img width="600"  alt="7862b3dba1522f253971b73db285749f" src="https://github.com/user-attachments/assets/f260eaf9-3d7d-4319-9159-7fbcb3d83d1a" />
+<img width="600"  alt="7862b3dba1522f253971b73db285749f" src="https://github.com/user-attachments/assets/f260eaf9-3d7d-4319-9159-7fbcb3d83d1a" /><br>
 最终效果<br>
 <br>
 </div>
