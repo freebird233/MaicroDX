@@ -155,9 +155,9 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br>
 <br>
 <br>
-<div align="center">
- 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f20d0d59-8445-4485-8bdd-f4cf886d131d" /><br>
+<div align="center"><br>
+ https://makerworld.com.cn/zh/models/1561531<br>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f20d0d59-8445-4485-8bdd-f4cf886d131d" /><br>
 打印这个配置文件</div>
 <br>
 <br>
@@ -169,12 +169,13 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br>
 <br>
 <br>
+为每个按键的两个触角飞线，让轮盘外壳上的数字位对应板子上的数字，另一个触角接GND，一共需要飞16根线 <br>
 <img width="500"  alt="2c12e648aacdde16a89e48ecf2893bba" src="https://github.com/user-attachments/assets/33313f79-54bc-4519-9526-17a48ffc65d4" /><img width="500"  alt="403b71811d136e94a510ad45d4fbbbc9" src="https://github.com/user-attachments/assets/d2b3321e-67fe-4680-be17-75a06073881c" /><br>
 钳子剪开横条，把线缆布置进去
 <br>
 <br><br>
 <br>
-<img width="600"  alt="3e267254ec4e80eb1256ba0a3bd9d5b9" src="https://github.com/user-attachments/assets/a19a6863-5bf6-42cd-83d6-1fb2aff3efe0" /><img width="300"  alt="b8617a2020be5331d3dc222d81dfcb6f" src="https://github.com/user-attachments/assets/51834f00-f553-4d4e-9bb6-a1a90ddda0d4" /><br>
+<img width="600"  alt="3e267254ec4e80eb1256ba0a3bd9d5b9" src="https://github.com/user-attachments/assets/a19a6863-5bf6-42cd-83d6-1fb2aff3efe0" /><img width="315"  alt="b8617a2020be5331d3dc222d81dfcb6f" src="https://github.com/user-attachments/assets/51834f00-f553-4d4e-9bb6-a1a90ddda0d4" /><br>
 盖上防尘盖 , 线缆两边点一些热熔胶加固
 <br>
 <br><br>
