@@ -67,9 +67,14 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <br>
 
+# 贴片
 
 <br>
 <br>
+参考该网站贴片，能提高一些效率<br>
+
+[V3交互式BOM.html](https://github.com/user-attachments/files/34361656/V3.BOM.html)
+
 <br>
 <br>
 <div align="center">对于这个项目，有部分器件不是必须的<br> 焊完后的主控板应该长这个样子。烧录程序后,上电并接入耳机时应该会有三个灯是亮着的<br>
