@@ -37,6 +37,10 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 
 <br>
 <br>
+
+后处理
+-----
+
 如果打印后发现层纹过于明显，则需要视情况进行打磨<br>
 打磨需要选购不同目数的砂纸，目数越低越粗糙，从粗逐步换到细
 <div align="center"><img width="300"  alt="0265b2b383c8f8d9e084716329cb6e13" src="https://github.com/user-attachments/assets/b3544391-e254-4a38-a017-baae88b64e66" />
