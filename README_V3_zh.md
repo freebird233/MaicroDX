@@ -271,10 +271,18 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 耳机
 ----
 
+
 <br>
 <div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/22d8211d-7fac-4e9a-bed3-83a8942c2c78" />
-<br>爆炸图</div>
+<br>爆炸图
 <br><br>
+
+<img width="280"  alt="image" src="https://github.com/user-attachments/assets/2cdbfab3-d747-48be-8b13-59c268d1b47f" />
+<img width="400" alt="3926b9044590883553583c591ca888d2" src="https://github.com/user-attachments/assets/b1a4e1f2-e0be-401a-91fc-5e04bf457f5f" />
+<img width="230"  alt="cefab52c16c0a22639bb79ff11d2c6f9" src="https://github.com/user-attachments/assets/30383f4b-40be-4939-bf0a-f74a5c2dd241" />
+
+</div>
+<br>
 <br>
 左 75mm
 <br>
