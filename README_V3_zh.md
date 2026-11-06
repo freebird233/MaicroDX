@@ -92,9 +92,27 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 
 <img width="500" alt="101338db0f6c94672967f020e723a215" src="https://github.com/user-attachments/assets/9ca87a61-b088-43f4-b22e-2688a6994ba9" /><img width="315" alt="8cec2a484f5962b6bd445f760a82fa79" src="https://github.com/user-attachments/assets/7f25c002-6f49-4bfc-806b-1d0611d9c0d1" />
 
-</div>
+</div><br>
+<br>
 
+烧录程序
+-----
+在官网下载烧录软件[WCHISPStudio](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html) <br> 
+在[Release处](https://github.com/freebird233/MaicroDX/releases)下载hex固件程序<br>
+ <br><div align="center">
+<img width="720" alt="Snipaste_2026-07-02_20-34-18" src="https://github.com/user-attachments/assets/3abe23a6-3a7c-488c-9f09-9790bfdc47e0" /> <br>
+WCHISPStudio程序界面</div><br><br>
+- 将板子连接电脑，此时会显示出设备名<br>
+- 烧录配置按照图中样式勾选，点击下载<br>
+<br>
 
+故障诊断
+-----
+  <br>
+  烧录程序找不到设备 ---> 短接BOOT上电，重新烧录固件 ---> 检查typeC母座焊盘GND 5v D+ D- 是否连锡，漏锡或是更换单片机 <br> <br>
+  电脑弹出通知： **无法识别的USB硬件**  ---> 检查typeC母座焊盘 D+ D- 是否连锡，漏锡或是更换单片机<br> <br>
+  电脑弹出通知： **硬件超出电流最大载荷** ---> 短路了，赶快拔掉，检查是哪里的5V和GND连在了一块<br> <br>
+  
 <br>
 <br>
 <br>
@@ -128,14 +146,7 @@ MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的�
  <br>  <br> 
 <br><br>
 
-# 烧录程序
-在官网下载烧录软件[WCHISPStudio](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html) <br> 
-在[Release处](https://github.com/freebird233/MaicroDX-Controller/releases)下载MaicroDX.hex固件程序<br>
- <br><div align="center">
-<img width="720" alt="Snipaste_2026-07-02_20-34-18" src="https://github.com/user-attachments/assets/3abe23a6-3a7c-488c-9f09-9790bfdc47e0" /> </div><br>
-将板子连接电脑，此时会显示出设备名<br>
-点击烧录<br>
-<br>
+
 
 https://github.com/user-attachments/assets/6a8587d2-b886-4417-bf86-0edc023bd731
 
