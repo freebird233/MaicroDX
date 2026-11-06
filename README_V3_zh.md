@@ -125,7 +125,7 @@ WCHISPStudio程序界面</div><br><br>
 # 分控版贴片(轮盘)
 > 尽可能选择较薄的板厚
 <br><br>
-默认: 双层板，0.8厚，白色，有铅喷锡。<br>
+默认: 双层板，0.8厚，白色，OSP<br>
 样板订单单件价格约 16 CNY/张 <br><br>如果选择了非白色颜色，在按键的左右间隙会看到电路板，影响美观
 
 <br><br><div align="center">
@@ -136,19 +136,7 @@ WCHISPStudio程序界面</div><br><br>
 
 <br>
 <br>
-<br> <br>
 
-安装外壳
------
-<br>  <br> 
-MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并在多平台更新) <br>
-<div align="center"><img width="800" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" /></div>
-"外壳" "外壳底板" 通过过盈配合方式固定  <br> 
-轴体与pcb板通过焊锡固定 <br> 
-外壳的PCB安装槽有比较大的悬空区域，在打印时，最好选用双材料的耗材作为支撑接触面,这样能显著提高效率和模型质量。例如:PLA作为PETG的支撑 <br> <br>
- <br>
- <br>  <br> 
-<br><br>
 
 
 
@@ -159,7 +147,21 @@ https://github.com/user-attachments/assets/6a8587d2-b886-4417-bf86-0edc023bd731
 - 检查信号灯是否依次亮起（就像上面的视频）由于WS2812的串联信号传输特性，当一个灯珠信号脱焊，会导致后面的所有灯熄灭。<br><div align="center"> **通讯串联关系=灯珠依次亮起的顺序** </div><br><br>
 
 - 短接各按键的两个焊盘，检查是否有键控信号输出，且白灯转变为黄灯<br>附: [按键测试网站](https://www.zfrontier.com/lab/keyboardTester)
+<br>
+<br>
 
+安装外壳
+-----
+
+<br>  <br> 
+MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并在多平台更新) <br>
+<div align="center"><img width="800" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" /></div>
+"外壳" "外壳底板" 通过过盈配合方式固定  <br> 
+轴体与pcb板通过焊锡固定 <br> 
+外壳的PCB安装槽有比较大的悬空区域，在打印时，最好选用双材料的耗材作为支撑接触面,这样能显著提高效率和模型质量。例如:PLA作为PETG的支撑 <br> <br>
+ <br>
+ <br>  <br> 
+<br>
 <br>
 <br>
 
