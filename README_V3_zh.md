@@ -67,7 +67,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <br>
 
-# 贴片
+# 主控板贴片
 
 <br>
 <br>
@@ -95,6 +95,22 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <br>
 
+# 分控版贴片(轮盘)
+> 尽可能选择较薄的板厚
+<br><br>
+默认: 双层板，0.8厚，白色，有铅喷锡。<br>
+样板订单单件价格约 16 CNY/张 <br><br>如果选择了非白色颜色，在按键的左右间隙会看到电路板，影响美观
+
+
+<br> <br>
+**打印外壳**  <br>  <br> 
+MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并多平台更新) <br>
+<img width="1000" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" />
+"外壳" "外壳底板" 通过过盈配合方式固定  <br> 
+轴体与pcb板通过焊锡固定 <br> 
+外壳的PCB安装槽有比较大的悬空区域，在打印时，最好用双材料的耗材作为支撑接触面。例如:PLA作为PETG的支撑 <br> <br>
+ <br>
+ <br>  <br> 
 <br><br>
 # 框体灯光布置
 本节详细描述mdx框体内灯光部分内容,在开始前，先确定两种灯带的裁剪长度
