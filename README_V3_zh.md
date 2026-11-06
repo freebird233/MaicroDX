@@ -107,8 +107,10 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>Release内的外壳文件默认适配Cheery家的矮轴系列,也可以按图示修改封装来适配其他轴体.<br>
 例如图示 改为了凯华白雨黑云遮山1353Hitbox 全白轴体</div>
 
-
+<br>
+<br>
 <br> <br>
+
 **打印外壳**  <br>  <br> 
 MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并在多平台更新) <br>
 <div align="center"><img width="800" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" /></div>
@@ -118,6 +120,7 @@ MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的�
  <br>
  <br>  <br> 
 <br><br>
+
 # 框体灯光布置
 本节详细描述mdx框体内灯光部分内容,在开始前，先确定两种灯带的裁剪长度
 <div align="center">
