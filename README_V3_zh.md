@@ -260,6 +260,20 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br>
 <br><br>
 <br><br>
+
+# 组装
+本节将介绍Maicrodx的框体组装流程，推荐的胶水是ab环氧胶+美纹胶定型。
+
+框体
+----
+
+
+耳机
+----
+
+<br>
+<div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/22d8211d-7fac-4e9a-bed3-83a8942c2c78" />
+<br>爆炸图</div>
 <br><br>
 <br>
 左 75mm
