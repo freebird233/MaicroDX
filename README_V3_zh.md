@@ -110,12 +110,14 @@ WCHISPStudio程序界面</div><br><br>
 - 烧录配置按照图中样式勾选，点击下载<br>
 <br>
 
-故障诊断
+基础故障诊断
 -----
   <br>
-  烧录程序找不到设备 ---> 短接BOOT上电，重新烧录固件 ---> 检查typeC母座焊盘GND 5v D+ D- 是否连锡，漏锡或是更换单片机 <br> <br>
-  电脑弹出通知： **无法识别的USB硬件**  ---> 检查typeC母座焊盘 D+ D- 是否连锡，漏锡或是更换单片机<br> <br>
-  电脑弹出通知： **硬件超出电流最大载荷** ---> 短路了，赶快拔掉，检查是哪里的5V和GND连在了一块<br> <br>
+  烧录程序找不到设备 ---> 短接BOOT上电，重新烧录固件 ---> 检查typeC母座焊盘GND 5v D+ D- 是否连锡，漏锡或更换单片机 <br> <br>
+  电脑弹出通知： **无法识别的USB硬件**  ---> typeC母座焊盘 D+ D- 连锡，漏锡或更换单片机<br> <br>
+  电脑弹出通知： **硬件超出电流最大载荷** ---> 主板短路 <br> <br>
+  接入耳机后工作灯闪烁 无音频输出 ---> 重焊U4 <br> <br>
+  
   
 <br>
 <br>
@@ -126,7 +128,7 @@ WCHISPStudio程序界面</div><br><br>
 > 尽可能选择较薄的板厚
 <br><br>
 默认: 双层板，0.8厚，白色，OSP<br>
-样板订单单件价格约 16 CNY/张 <br><br>如果选择了非白色颜色，在按键的左右间隙会看到电路板，影响美观
+样板订单单件价格约 16 CNY/张 <br><br>如果选择了非白色，在按键的左右间隙会看到电路板
 
 <br><br><div align="center">
 <img width="510"  alt="image" src="https://github.com/user-attachments/assets/786b21bc-3523-4812-9541-676310c09172" />
@@ -280,7 +282,8 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <img width="280"  alt="image" src="https://github.com/user-attachments/assets/2cdbfab3-d747-48be-8b13-59c268d1b47f" />
 <img width="400" alt="3926b9044590883553583c591ca888d2" src="https://github.com/user-attachments/assets/b1a4e1f2-e0be-401a-91fc-5e04bf457f5f" />
 <img width="230"  alt="cefab52c16c0a22639bb79ff11d2c6f9" src="https://github.com/user-attachments/assets/30383f4b-40be-4939-bf0a-f74a5c2dd241" />
-
+<br>效果图
+<br><br>
 </div>
 <br>
 <br>
