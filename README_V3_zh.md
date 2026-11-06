@@ -101,14 +101,20 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 默认: 双层板，0.8厚，白色，有铅喷锡。<br>
 样板订单单件价格约 16 CNY/张 <br><br>如果选择了非白色颜色，在按键的左右间隙会看到电路板，影响美观
 
+<br><br><div align="center">
+<img width="510"  alt="image" src="https://github.com/user-attachments/assets/786b21bc-3523-4812-9541-676310c09172" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/2cf4c2b8-833b-4672-bba7-751d506be6a5" />
+<br>Release内的外壳文件默认适配Cheery家的矮轴系列,也可以按图示修改封装来适配其他轴体.<br>
+例如图示 改为了凯华白雨黑云遮山1353Hitbox 全白轴体</div>
+
 
 <br> <br>
 **打印外壳**  <br>  <br> 
-MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并多平台更新) <br>
-<img width="1000" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" />
+MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并在多平台更新) <br>
+<div align="center"><img width="800" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" /></div>
 "外壳" "外壳底板" 通过过盈配合方式固定  <br> 
 轴体与pcb板通过焊锡固定 <br> 
-外壳的PCB安装槽有比较大的悬空区域，在打印时，最好用双材料的耗材作为支撑接触面。例如:PLA作为PETG的支撑 <br> <br>
+外壳的PCB安装槽有比较大的悬空区域，在打印时，最好选用双材料的耗材作为支撑接触面,这样能显著提高效率和模型质量。例如:PLA作为PETG的支撑 <br> <br>
  <br>
  <br>  <br> 
 <br><br>
