@@ -31,12 +31,21 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 </div>
 <br>
 
-使用切片软件内的尺子工具量取框体尺寸,只需要确认平板屏幕的短边能否放入，厚度和长度在框体内可以调整<br>
-确认无误后，开始打印
+使用切片软件内的尺子工具量取框体尺寸,确认平板屏幕的短边能否放入，厚度和长度在框体内可以调整<br>
+<br>
+请务必测量模型尺寸，对比您自己的平板尺寸，确认无误再打印
 
+<br>
+<br>
+如果打印后发现层纹过于明显，则需要视情况进行打磨<br>
+打磨需要选购不同目数的砂纸，目数越低越粗糙，从粗逐步换到细
+<div align="center"><img width="300"  alt="0265b2b383c8f8d9e084716329cb6e13" src="https://github.com/user-attachments/assets/b3544391-e254-4a38-a017-baae88b64e66" />
+<br>
+经过打磨处理后的外框 </div>
+<br>
+<br><br><br>
 
-<br><br>
-# 采购元器件
+# 采购器件
 除了电路板（BOM表）的器件外 还有另外需要购买的内容如下：
 <br>
 <img width="100"  alt="7f410a41bbb1690c873d6deabcacb916" src="https://github.com/user-attachments/assets/3c5693ba-8e29-4881-9f6d-408bb0c839b2" />DCDC可调降压模块 https://mobile.yangkeduo.com/goods2.html?ps=X5uzsILUIu
@@ -50,17 +59,13 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <img width="100"  alt="56d22c5dc6d6c641a3a653eefd909377" src="https://github.com/user-attachments/assets/c99a3a86-27e3-4646-9d53-7573cbeeb5fd" />CtC数据线 https://mobile.yangkeduo.com/goods2.html?ps=SiMcasrXyJ (双头c 1条装)
 <br>
+
+<img width="100"  alt="image" src="https://github.com/user-attachments/assets/b1845ebf-d027-4e17-94d1-083cf48674c6" /> 自攻螺丝 https://e.tb.cn/h.j6yBLOpGoLmfVUH?tk=jGQt6YpXLq4  (可选，装饰用)
 <br>
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/de1289ad-a48f-4fd2-b7ba-acf30c2b10e4" /> 矮轴 https://e.tb.cn/h.jRXogoRPmuNxnyg?tk=RaZK6Yp5Pvr
 
 
-<br>
-<br>
-如果打印后发现层纹过于明显，则需要进行打磨。否则安装灯条后层纹会被照得更加明显。<br>
-打磨需要选购不同目数的砂纸，目数越低越粗糙，遵循从粗到细的原则，（对这个来说用80 200 600 1000就够了）
-<div align="center"><img width="300"  alt="0265b2b383c8f8d9e084716329cb6e13" src="https://github.com/user-attachments/assets/b3544391-e254-4a38-a017-baae88b64e66" />
-<br>
-经过打磨处理后的外框 </div>
-<br>
+
 <br>
 <br>
 <br>
@@ -104,14 +109,16 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br><br><div align="center">
 <img width="510"  alt="image" src="https://github.com/user-attachments/assets/786b21bc-3523-4812-9541-676310c09172" />
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/2cf4c2b8-833b-4672-bba7-751d506be6a5" />
-<br>Release内的外壳文件默认适配Cheery家的矮轴系列,也可以按图示修改封装来适配其他轴体.<br>
+<br>Release内的外壳文件默认适配Cheery家的矮轴系列,你也可以自行修改封装来适配其他轴体.<br>
 例如图示 改为了凯华白雨黑云遮山1353Hitbox 全白轴体</div>
 
 <br>
 <br>
 <br> <br>
 
-**打印外壳**  <br>  <br> 
+安装外壳
+-----
+<br>  <br> 
 MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的模型文件(我难以检查并在多平台更新) <br>
 <div align="center"><img width="800" alt="Snipaste_2026-07-02_23-48-56" src="https://github.com/user-attachments/assets/4cb6bfd1-12f3-4750-9b2f-d03b26c6ff84" /></div>
 "外壳" "外壳底板" 通过过盈配合方式固定  <br> 
@@ -120,6 +127,26 @@ MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的�
  <br>
  <br>  <br> 
 <br><br>
+
+# 烧录程序
+在官网下载烧录软件[WCHISPStudio](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html) <br> 
+在[Release处](https://github.com/freebird233/MaicroDX-Controller/releases)下载MaicroDX.hex固件程序<br>
+ <br><div align="center">
+<img width="720" alt="Snipaste_2026-07-02_20-34-18" src="https://github.com/user-attachments/assets/3abe23a6-3a7c-488c-9f09-9790bfdc47e0" /> </div><br>
+将板子连接电脑，此时会显示出设备名<br>
+点击烧录<br>
+<br>
+
+https://github.com/user-attachments/assets/6a8587d2-b886-4417-bf86-0edc023bd731
+
+<br>
+
+- 检查信号灯是否依次亮起（就像上面的视频）由于WS2812的串联信号传输特性，当一个灯珠信号脱焊，会导致后面的所有灯熄灭。<br><div align="center"> **通讯串联关系=灯珠依次亮起的顺序** </div><br><br>
+
+- 短接各按键的两个焊盘，检查是否有键控信号输出，且白灯转变为黄灯<br>附: [按键测试网站](https://www.zfrontier.com/lab/keyboardTester)
+
+<br>
+<br>
 
 # 框体灯光布置
 本节详细描述mdx框体内灯光部分内容,在开始前，先确定两种灯带的裁剪长度
@@ -210,7 +237,7 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 最终效果<br>
 <br>
 </div>
-备注: 烧录带灯的固件时，上电需要等待5s左右才会工作
+备注: 烧录带灯的固件，上电需要等待5s才会工作
 
 
 <br>
