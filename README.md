@@ -3,7 +3,7 @@
 
 
 MaicroDX是一个专为**移动设备**设计的maimai风格微缩模型，提供9个可用于游戏的外置按键 <br>
->  项目全栈开源，主控集成快充与音频输出。按钮通过hid键控信号输入，而您需要自行解决设备软件方面的问题</div>
+>  项目全栈开源，主控集成快充与音频输出。按钮通过hid键控信号输入，您需要自行解决软件方面的问题</div>
 <br> 
 <br> 
 <br>
@@ -13,7 +13,7 @@ MaicroDX是一个专为**移动设备**设计的maimai风格微缩模型，提�
 <br>
 <br>
 
-[MaicroDX 技术交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
+[MaicroDX 中文交流社区](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uaJAwiIXVH5AWTCzZIfZjyvK5NMUc5RV&authKey=3EfBhaKBnfT3eZ%2F9ZlTbbR4r84ucNtt%2F%2FNDzzINnJAItXKx8PftKUk%2FCVn4rtrLw&noverify=0&group_code=1055571063)
 
 
 
