@@ -276,11 +276,12 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br><br>
 第一种方式<img width="600"  alt="image" src="https://github.com/user-attachments/assets/5ae85412-738a-4703-b3e7-d773117511e7" />
 打印这个配置文件，用对应的颜色耗材，或是全白打印后涂色
-<br><br>
-第二种方式; 下载Release内的cad文件，发给亚克力板厂做定制<br>
+<br><br><br>
+第二种方式<br>
 <img width="1118" height="512" alt="4f0dbb332f1af8da2ebad8a157b2294a" src="https://github.com/user-attachments/assets/264a5e1b-e888-4269-816f-04ed868e11bb" />
-
+<br>下载Release内的cad文件，发给亚克力板厂做定制<br>
 <br><br>
+两种方案效果对比<br>
 
 <br><br><br><br>
 耳机
