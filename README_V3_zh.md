@@ -268,8 +268,9 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 
 框体
 ----
+<div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /><br>爆炸图
 
-
+<br><br><br><br>
 耳机
 ----
 
