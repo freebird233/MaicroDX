@@ -5,12 +5,7 @@
 <br>
 <br>
 
-[what's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)
-
-
-现在制作所需的所有必要的文件都已经上传。 <br>
-
-如果您现在还能看到这句话，说明教程的部分内容仍在建设中……顺序可能较为混乱，谨此致歉。<br>
+[what's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)  (截止2026.10.25)
 
 
 
@@ -168,8 +163,12 @@ MaicroDX Controller外壳共由两部分组成。优先下载 makerworld上的�
 轴体与pcb板通过焊锡固定 <br> 
 外壳的PCB安装槽有比较大的悬空区域，在打印时，最好选用双材料的耗材作为支撑接触面,这样能显著提高效率和模型质量。例如:PLA作为PETG的支撑 <br> <br>
  <br>
- <br>  <br> 
-<br>
+ <br> 
+
+
+ <div align="center"><img width="450"  alt="288eb6a0f2515d5845719e86907c26f6" src="https://github.com/user-attachments/assets/bb889b1b-5046-45f1-a36e-f809559b3be8" /><img width="450" alt="fdbd2daced42348d2717fd6a8a4ebf8e" src="https://github.com/user-attachments/assets/fcd528dc-98b8-4011-9126-efd84114448b" /></div>
+
+<br><br>
 <br>
 <br>
 
