@@ -81,7 +81,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 
 <br>
 <br>
-<div align="center">对于这个项目，有部分器件不是必须的<br> 焊完后的主控板应该长这个样子。烧录程序后,上电并接入耳机时应该会有三个灯是亮着的<br>
+<div align="center">有部分器件不是必须的<br> 焊后的主控板如图所示。烧录程序后,上电并接入耳机时应有三个灯常亮<br>
 <img width="280"  alt="8c8c32762c9862159e4f02e3d143df3d" src="https://github.com/user-attachments/assets/fc67a035-1699-4933-bede-161580ee5546" /><img width="500"  alt="dcb986164ce6d01910a24e40892780cf" src="https://github.com/user-attachments/assets/ddc6c8b3-db79-4d54-a223-659470e285bc" />
 <br>
 <br>
@@ -275,7 +275,8 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 
 框体
 ----
-<div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /><br>爆炸图
+<div align="center"><img width="535"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/12715dd5-4319-4b0d-ae7e-50c7b4b8cefe" />
+   <br>爆炸图与粘合顺序
 <br><br>
 
 彩虹装饰框
@@ -298,7 +299,7 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 
 <br>
 <div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/22d8211d-7fac-4e9a-bed3-83a8942c2c78" />
-<br>爆炸图
+<br>爆炸图   
 <br><br>
 
 <img width="280"  alt="image" src="https://github.com/user-attachments/assets/2cdbfab3-d747-48be-8b13-59c268d1b47f" />
