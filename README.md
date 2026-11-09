@@ -2,8 +2,8 @@
 <div align="center"><img width="300" alt="06c462dc02f1e58b80f72879e290c0c0" src="https://github.com/user-attachments/assets/40c6f20b-0bf9-4ba8-872a-eb2473313567" />
 
 
-MaicroDX是一个专为**移动设备**设计的maimai风格微缩模型，提供9个可用于游戏的外置按键 <br>
->  项目全栈开源，主控集成快充与音频输出。按钮通过hid键控信号输入，您需要自行解决软件方面的问题</div>
+专为**移动设备**设计的maimai风格微缩模型，提供9个可用于游戏的外置按键 <br>
+>  这是一个基于模型分享的开源项目，主控集成快充与音频输出。按钮通过hid键控信号输入，您需要自行解决软件方面的问题</div>
 <br> 
 <br> 
 <br>
