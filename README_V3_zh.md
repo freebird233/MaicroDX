@@ -214,9 +214,11 @@ ws2812灯光通讯逻辑： <br>
 <br>
 cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc外接板来手动控制亮度，根据上面的表格裁切好后，撕掉一点背胶，焊两根ok线上去。
 <br>
-【待拍摄图片】<br>
-贴好后用热熔胶加固<br>
+<br><div align="center">
+<img width="300"  alt="d2fab9166c778eb366c540e1b5e266a0" src="https://github.com/user-attachments/assets/d2a09b47-08b9-4c90-be0c-33421bb6d488" /> <img width="300"  alt="f224b8227ed809cb45b568eb8bb618cd" src="https://github.com/user-attachments/assets/91a8c40d-1ced-4517-93b1-fe33aa50c329" /> <img width="300"  alt="d43cacdae06dbfdb33d1740236994a43" src="https://github.com/user-attachments/assets/69c94f94-2a91-4aff-bf61-f0a9ebbd841f" />
 
+用热熔胶加固<br>
+</div>
 <br>
 <br>
 <br>
