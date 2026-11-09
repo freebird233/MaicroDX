@@ -125,6 +125,12 @@ WCHISPStudio程序界面</div><br><br>
 <br>
 
 # 分控版贴片(轮盘)
+<br>
+<br>
+在maicrodx controller的仓库里下载gerber文件 (分控板随着那个项目更新,主控板在这边)
+<br>
+<br>
+
 > 尽可能选择较薄的板厚
 <br><br>
 默认: 双层板，0.8厚，白色，OSP<br>
