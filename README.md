@@ -76,7 +76,7 @@ __创意来源__
 | :--- | :--- |  :--- |  :--- |  :--- | 
 |**V1** (2025.08)|<div align="center">雏形确定|sw改模 打印 装配 飞线 涂色| 成品板x1| <div align="center">180 |
 |**V2** (2025.11)|<div align="center">添加可调节滑块,结构优化|<div align="center">打印 装配 飞线| 成品板x1| <div align="center">180~256 |
-|**V3** (2026.10)|<div align="center">完善外围电路，补齐细节(双尺寸分支)|订板 贴片 烧录 打印 布线| 专用板x2| <div align="center">300 |
+|**V3** (2026.10)|<div align="center">完善外围电路，补齐细节(双尺寸分支)|订板 贴片 烧录 打印 布线| 专用板x2| <div align="center">256~300 |
 
 <img width="182" alt="3e5f552fe837423b2e954b54d62e3780" src="https://github.com/user-attachments/assets/67d717a9-4aab-460d-bc65-13939975c981" /> <img width="300"  alt="51630868b36ffab3177eb6512c230b2a" src="https://github.com/user-attachments/assets/8e59ec72-b5a4-4f8c-a87e-f268b6bd9372" /> <img width="316" alt="fbeb6f0014a2cd0a69885e46d06b210f" src="https://github.com/user-attachments/assets/640844bf-64e2-4b6c-b9d4-9fb4d8efd8b2" />
 
