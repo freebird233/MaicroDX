@@ -277,7 +277,29 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 ----
 <div align="center"><img width="535"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/12715dd5-4319-4b0d-ae7e-50c7b4b8cefe" />
    <br>爆炸图与粘合顺序
-<br><br>
+
+ 
+ <br><br><br><br>
+
+
+
+<img width="400" alt="a1fdb5a11cb966918c32aa63c62052e1" src="https://github.com/user-attachments/assets/81f639f1-d645-4597-b304-6bfd70f5e308" /> <img width="400"  alt="a831ab3301552025a71e331923ce9287" src="https://github.com/user-attachments/assets/aafa15a0-cf87-41aa-aba7-49db1ae3a105" />
+<br>9号键位于框体左侧，安装时不需要胶水，对齐到合适的角度后推入卡死即可. 电烙铁焊接导线后，用压线钳接2P插头.
+
+<br><br><br><br>
+
+
+<img width="450" alt="11d7263bc8986843a74345e70c14218e" src="https://github.com/user-attachments/assets/aec057f4-e420-4b95-a03c-bb1dec6f5953" /> <img width="450" alt="c89b90ba149ec5b63a2cfed46521ef2f" src="https://github.com/user-attachments/assets/81f3f4d0-50bf-4076-89ee-0e476ddc1cbc" />
+<br>取1mm左右宽的魔术双面胶，修剪成正方形小块贴在框体的定位脚上，安装轮盘
+<br><br><br><br>
+
+
+<img width="600"  alt="384697ccd015941b86f4e218af7f62a3" src="https://github.com/user-attachments/assets/f459b332-588b-4e9c-af25-0b5453a05f66" />
+
+<br>**1** ---> ws2812头灯
+<br><br>**2** ---> cob灯条
+<br><br>**3** ---> 1P按键
+<br><br><br><br>
 
 彩虹装饰框
 ----
