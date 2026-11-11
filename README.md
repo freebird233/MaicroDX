@@ -41,7 +41,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 <br> <br><br>
 
 
-# 特别感谢
+# 致谢
 
 - __@Fandorabox__ 为本项目命名 <br>
 <br>
