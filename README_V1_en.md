@@ -108,8 +108,7 @@ Install the low-profile red switches in the eight matching slots in the button r
 <img width="480" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/4b009ba8-dc1f-4dcd-bda6-332664c53bbc" /> <img width="310" alt="3711083a9521bbc4f4f6488003fff1e" src="https://github.com/user-attachments/assets/80e9c5f5-3ccb-4673-8051-260165546d74" />
 <br> 
 <br> 
-October 2026 update: The design now uses Cherry low-profile switches. This is the recommended print profile for new builds. It fixes many issues and allows the buttons to be printed horizontally to reduce visible layer lines.<br> 
-https://makerworld.com/zh/models/1769239 <br> <img width="592" height="592" alt="image" src="https://github.com/user-attachments/assets/ebc0b0ce-c38f-4b8d-b397-9fa83f22b950" />
+
 
 
 

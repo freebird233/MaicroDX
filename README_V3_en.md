@@ -1,16 +1,12 @@
-Here is the English version of your README:
-
 # Maicrodx V3 Model Guide
 
 <br>
 <br>
 
-[What's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)
+[What's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf) (as of October 25, 2026)
 
 
-All necessary files for production have now been uploaded. <br>
 
-If you can still see this sentence, it means some parts of the tutorial are still under construction... The order may be somewhat messy. Apologies for that.<br>
 
 
 
@@ -115,14 +111,21 @@ Troubleshooting
   <br>
   Cannot find the device when flashing ---> Short BOOT and power on, then re-flash the firmware ---> Check whether GND, 5V, D+, and D- on the Type-C receptacle pads are solder-bridged or missing solder, or replace the MCU.<br> <br>
   Computer notification: **Unrecognized USB hardware** ---> Check whether D+ and D- on the Type-C receptacle pads are solder-bridged or missing solder, or replace the MCU.<br> <br>
-  Computer notification: **Hardware exceeds maximum current load** ---> There is a short circuit. Unplug it immediately and check where 5V and GND are connected together.<br> <br>
+  Computer notification: **Hardware exceeds maximum current load** ---> The main board has a short circuit.<br> <br>
+  The status LED flashes after connecting headphones, with no audio output ---> Resolder U4.<br> <br>
   
 <br>
 <br>
 <br>
 <br>
 
-# Sub-controller Board Soldering (Wheel)
+# Sub-controller Board Soldering (Button Ring)
+<br>
+<br>
+Download the Gerber files from the MaicroDX Controller repository. (The sub-controller board is updated in that project; the main controller board is maintained here.)
+<br>
+<br>
+
 > Choose a thinner board thickness if possible.
 <br><br>
 Default: 2-layer board, 0.8 mm thick, white, OSP<br>
@@ -132,7 +135,7 @@ Sample order price is about 16 CNY per piece.<br><br>If a non-white color is sel
 <img width="510"  alt="image" src="https://github.com/user-attachments/assets/786b21bc-3523-4812-9541-676310c09172" />
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/2cf4c2b8-833b-4672-bba7-751d506be6a5" />
 <br>The enclosure files in Releases fit Cherry low-profile switch series by default. You can also modify the footprint to fit other switches.<br>
-For example, as shown, it has been changed to Kailh White Rain Black Cloud Zhe Shan 1353 Hitbox all-white switches.</div>
+For example, the build shown uses Kailh Baiyu / Heiyun / Zheshan 1353 Hitbox switches with all-white housings.</div>
 
 <br>
 <br>
@@ -144,7 +147,7 @@ https://github.com/user-attachments/assets/6a8587d2-b886-4417-bf86-0edc023bd731
 
 <br>
 
-- Check whether the indicator LEDs light up in sequence (as in the video above). Due to the serial signal transmission characteristic of WS2812, if one LED signal is unsoldered, all LEDs after it will go out.<br><div align="center"> **Communication series relationship = the order in which the LEDs light up** </div><br><br>
+- Check whether the indicator LEDs light up in sequence (as in the video above). Due to the serial signal transmission characteristic of WS2812, if a signal connection on one LED comes loose, all subsequent LEDs will go out.<br><div align="center"> **Communication series relationship = the order in which the LEDs light up** </div><br><br>
 
 - Short the two pads of each key and check whether a key signal is output and the white LED turns yellow.<br>Note: [Key tester website](https://www.zfrontier.com/lab/keyboardTester)
 <br>
@@ -164,6 +167,10 @@ The PCB mounting slot in the enclosure has a relatively large overhanging area. 
 <br>
 <br>
 <br>
+
+ <div align="center"><img width="450"  alt="288eb6a0f2515d5845719e86907c26f6" src="https://github.com/user-attachments/assets/bb889b1b-5046-45f1-a36e-f809559b3be8" /><img width="450" alt="fdbd2daced42348d2717fd6a8a4ebf8e" src="https://github.com/user-attachments/assets/fcd528dc-98b8-4011-9126-efd84114448b" /></div>
+
+<br><br>
 
 # Frame Lighting Layout
 This section describes the lighting inside the MDX frame. Before starting, determine the cut lengths for the two light strips.
@@ -198,17 +205,19 @@ This section describes the lighting inside the MDX frame. Before starting, deter
 <br>
 
 WS2812 lighting communication logic: <br>
-Main controller --> FPC Din --> Wheel --> FPC Dout --> Main controller --> Headlight <br>
+Main controller --> FPC Din --> Button Ring --> FPC Dout --> Main controller --> Headlight <br>
 When lighting problems occur, troubleshoot according to this logic.
 </div>
 
 
 <br>
-The COB light strip is fixed to the frame wheel with its own adhesive backing. Brightness is manually controlled by the external DCDC board from the main controller. After cutting according to the table above, peel off a little adhesive and solder two OK wires to it.
+The COB light strip is fixed to the cabinet's button ring with its own adhesive backing. Brightness is manually controlled by the external DCDC board from the main controller. After cutting according to the table above, peel off a little adhesive and solder two wire-wrap wires to it.
 <br>
-[Photo to be taken]<br>
-After attaching, reinforce with hot glue.<br>
+<br><div align="center">
+<img width="300"  alt="d2fab9166c778eb366c540e1b5e266a0" src="https://github.com/user-attachments/assets/d2a09b47-08b9-4c90-be0c-33421bb6d488" /> <img width="300"  alt="f224b8227ed809cb45b568eb8bb618cd" src="https://github.com/user-attachments/assets/91a8c40d-1ced-4517-93b1-fe33aa50c329" /> <img width="300"  alt="d43cacdae06dbfdb33d1740236994a43" src="https://github.com/user-attachments/assets/69c94f94-2a91-4aff-bf61-f0a9ebbd841f" />
 
+Reinforce with hot glue.<br>
+</div>
 <br>
 <br>
 <br>
@@ -216,10 +225,10 @@ After attaching, reinforce with hot glue.<br>
 <br><br>
 
 
-# Wheel Without Lighting
+# Button Ring Without Lighting
 <br>
 <br>
-If you do not need lighting, you can make a non-lit control wheel as follows. This reduces the difficulty of replication. It can also be used on the V3 frame.
+If you do not need lighting, you can make a non-lit control button ring as follows. This makes the build easier. It can also be used on the V3 frame.
 <br>
 <br>
 <br>
@@ -238,8 +247,8 @@ Solder only the necessary components on the external control board.
 <br>
 <br>
 <br>
- <img width="900" height= alt="image" src="https://github.com/user-attachments/assets/0eea48f7-3ef0-465b-b602-967551f5211e" /><br>
-Fly-wire the two pins of each key so that the number positions on the wheel enclosure correspond to the numbers on the board; connect the other pin to GND. 16 wires in total.<br><br><br><br>
+ <img width="900" alt="image" src="https://github.com/user-attachments/assets/0eea48f7-3ef0-465b-b602-967551f5211e" /><br>
+Wire both pins of each switch: connect one pin to the numbered pad on the board that matches the number on the button ring enclosure, and connect the other pin to GND. This requires 16 wires in total.<br><br><br><br>
 <img width="500"  alt="2c12e648aacdde16a89e48ecf2893bba" src="https://github.com/user-attachments/assets/33313f79-54bc-4519-9526-17a48ffc65d4" /><img width="500"  alt="403b71811d136e94a510ad45d4fbbbc9" src="https://github.com/user-attachments/assets/d2b3321e-67fe-4680-be17-75a06073881c" /><br>
 Use pliers to cut the horizontal bar and route the cables in.
 <br>
@@ -257,11 +266,73 @@ Final result.
 Note: If you flash the firmware with lighting, after power-on you need to wait 5 s before it works.
 
 
-<br>
+
+
 <br><br>
+
+# Assembly
+This section covers assembly of the MaicroDX cabinet. Use two-part epoxy for bonding and masking tape to hold the parts in place while it cures.
+
+Cabinet
+----
+<div align="center"><img width="535"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/12715dd5-4319-4b0d-ae7e-50c7b4b8cefe" />
+   <br>Exploded view and gluing sequence
+
+ 
+ <br><br><br><br>
+
+
+
+<img width="400" alt="a1fdb5a11cb966918c32aa63c62052e1" src="https://github.com/user-attachments/assets/81f639f1-d645-4597-b304-6bfd70f5e308" /> <img width="400"  alt="a831ab3301552025a71e331923ce9287" src="https://github.com/user-attachments/assets/aafa15a0-cf87-41aa-aba7-49db1ae3a105" />
+<br>Button 9 is on the left side of the cabinet. No glue is needed: align it at the correct angle and push it in until it locks in place. Solder the wires, then use a crimping tool to attach a 2-pin connector.
+
+<br><br><br><br>
+
+
+<img width="450" alt="11d7263bc8986843a74345e70c14218e" src="https://github.com/user-attachments/assets/aec057f4-e420-4b95-a03c-bb1dec6f5953" /> <img width="450" alt="c89b90ba149ec5b63a2cfed46521ef2f" src="https://github.com/user-attachments/assets/81f3f4d0-50bf-4076-89ee-0e476ddc1cbc" />
+<br>Cut approximately 1 mm wide double-sided mounting tape into small squares, stick them onto the cabinet's locating tabs, and install the button ring.
+<br><br><br><br>
+
+
+<img width="600"  alt="384697ccd015941b86f4e218af7f62a3" src="https://github.com/user-attachments/assets/f459b332-588b-4e9c-af25-0b5453a05f66" />
+
+<br>**1** ---> WS2812 headlight
+<br><br>**2** ---> COB light strip
+<br><br>**3** ---> 1P button
+<br><br><br><br>
+
+Rainbow Trim
+----
 <br><br>
+Option 1<br><img width="600"  alt="image" src="https://github.com/user-attachments/assets/5ae85412-738a-4703-b3e7-d773117511e7" />
+<br>Print this profile using filament in the corresponding colors, or print everything in white and paint it afterward.
+<br><br><br>
+Option 2<br>
+<img width="600" alt="4f0dbb332f1af8da2ebad8a157b2294a" src="https://github.com/user-attachments/assets/264a5e1b-e888-4269-816f-04ed868e11bb" />
+<br>Download the CAD files from Releases and send them to an acrylic fabricator for custom production.<br>
 <br><br>
+Comparison of the two options<br>
+<img width="600" alt="ad20721d1ef980eebc84f5f7680e1cd6" src="https://github.com/user-attachments/assets/033d5108-2375-4c96-b24e-b4ac05df29e4" />
+
+<br><br><br><br>
+Headphone Assembly
+----
+
+
 <br>
-Left 75 mm
+<div align="center"><img width="900"  alt="image" src="https://github.com/user-attachments/assets/22d8211d-7fac-4e9a-bed3-83a8942c2c78" />
+<br>Exploded view   
+<br><br>
+
+<img width="280"  alt="image" src="https://github.com/user-attachments/assets/2cdbfab3-d747-48be-8b13-59c268d1b47f" />
+<img width="400" alt="3926b9044590883553583c591ca888d2" src="https://github.com/user-attachments/assets/b1a4e1f2-e0be-401a-91fc-5e04bf457f5f" />
+<img width="230"  alt="cefab52c16c0a22639bb79ff11d2c6f9" src="https://github.com/user-attachments/assets/30383f4b-40be-4939-bf0a-f74a5c2dd241" />
+<br>For better results, resin-print the transparent housing.<br><br>
+</div>
 <br>
-Right 210 mm
+<br>
+Left: 75 mm
+<br>
+Right: 210 mm
+
+
