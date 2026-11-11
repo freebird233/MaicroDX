@@ -91,6 +91,14 @@ __创意来源__
 <br>
 <br>
 
+# CAD文件
+我在Release页上传了原始带参CAD模型文件，作为学习交流使用。<br>
+本项目工程主要使用Solidworks完成，点云逆向部分使用了CATIA辅助设计。
+
+
+<br>
+<br>
+<br>
 # 开始吧
 
 点击main file内对应的readme文件进行跳转
