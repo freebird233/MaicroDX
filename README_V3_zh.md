@@ -56,12 +56,13 @@ DX下半部分同理，为灯槽布光预留空间
 <br />
 
 <p align="center">
-<img src="assets/v3-whats-new/image9.png" width="720" alt="MaicroDX V3 — 1" />
+<img width="850" src="assets/v3-whats-new/image9.png" width="720" alt="MaicroDX V3 — 1" />
 </p>
 
 
 <p align="center">
-<img src="assets/v3-whats-new/image10.png" width="580" alt="2026.7外观面修改:基于点云扫描的逆向工程 — 1" />
+<img width="850"  alt="image" src="https://github.com/user-attachments/assets/9af98ed2-b779-408d-bac0-9d54969897a3" />
+
 <br />
 2026.7外观面修改:基于点云扫描的逆向工程
 </p>
@@ -87,7 +88,7 @@ DX下半部分同理，为灯槽布光预留空间
 </p>
 
 
-关于按键:一开始试着使用官台原尺寸做微缩，太小了，最后还是用回旧版的按键设计。优化轮盘
+关于按键:一开始试着使用官台原尺寸做微缩，太小了，最后还是用回旧版的按键设计。仅优化轮盘
 
 11与12.5+尺寸框体同步更新
 
