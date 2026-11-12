@@ -105,4 +105,8 @@ __创意来源__
 
 # 开始吧
 
-点击main file内对应的readme文件进行跳转
+点击下方链接，查看对应版本的中文指南：
+
+- [V1 复刻指南](README_V1_zh.md)
+- [V2 模型指南](README_V2_zh.md)
+- [V3 模型指南](README_V3_zh.md)
