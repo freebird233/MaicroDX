@@ -5,7 +5,458 @@
 <br>
 <br>
 
-[what's new?](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)  (截止2026.10.25)
+## V3 改动大览
+
+（截至 2026.10.25）
+
+<p align="center">
+<img src="assets/v3-whats-new/image1.png" width="380" alt="夹持结构改 布光效果 — 1" />
+<img src="assets/v3-whats-new/image2.jpeg" width="313" alt="夹持结构改 布光效果 — 2" />
+<br />
+夹持结构改 布光效果
+</p>
+
+
+中间的白色框体改为倒置打印，减少翘边导致的拼装接缝
+
+部分通过零件拆分功能设置好了独立填充，保证结构件强度的同时让灯条布光会更加均匀（上图图2）
+
+<p align="center">
+<img src="assets/v3-whats-new/image5.png" width="225" alt="cob灯条与ws2812灯条 — 1" />
+<img src="assets/v3-whats-new/image4.jpeg" width="220" alt="cob灯条与ws2812灯条 — 2" />
+<img src="assets/v3-whats-new/image3.jpeg" width="230" alt="cob灯条与ws2812灯条 — 3" />
+<br />
+cob灯条与ws2812灯条
+</p>
+
+
+<p align="center">
+<img src="assets/v3-whats-new/image6.png" width="720" alt="MaicroDX V3 — 1" />
+</p>
+
+
+DX下半部分同理，为灯槽布光预留空间
+
+滑块连杆改为斜面
+
+<p align="center">
+<img src="assets/v3-whats-new/image7.png" width="280" alt="滑块加凹槽，方便ctc过线 — 1" />
+<br />
+滑块加凹槽，方便ctc过线
+</p>
+
+
+<p align="center">
+<img src="assets/v3-whats-new/image8.png" width="280" alt="耳机架改成横放打印 — 1" />
+<br />
+耳机架改成横放打印
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image9.png" width="720" alt="MaicroDX V3 — 1" />
+</p>
+
+
+<p align="center">
+<img src="assets/v3-whats-new/image10.png" width="580" alt="2026.7外观面修改:基于点云扫描的逆向工程 — 1" />
+<br />
+2026.7外观面修改:基于点云扫描的逆向工程
+</p>
+
+
+- DX位置调整
+- 耳机孔插槽
+- 圆环边的斜面修改
+
+<p align="center">
+<img src="assets/v3-whats-new/image11.jpeg" width="180" alt="在此非常感谢和音屋提供的帮助!! — 1" />
+<br />
+在此非常感谢和音屋提供的帮助!!
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image12.png" width="720" alt="2026.6基于点云逆向的轮盘部分 — 1" />
+<br />
+2026.6基于点云逆向的轮盘部分
+</p>
+
+
+关于按键:一开始试着使用官台原尺寸做微缩，太小了，最后还是用回旧版的按键设计。优化轮盘
+
+11与12.5+尺寸框体同步更新
+
+<p align="center">
+<img src="assets/v3-whats-new/image13.jpeg" width="330" alt="MaicroDX V3 — 1" />
+<img src="assets/v3-whats-new/image14.jpeg" width="380" alt="MaicroDX V3 — 2" />
+</p>
+
+
+[maimai 按键逆向设计](https://www.bilibili.com/video/BV1vzKf6GEdv/?share_source=copy_web&vd_source=2514ee4b34e33150e068846f56a6b264)
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image15.png" width="720" alt="MaicroDX V3 — 1" />
+</p>
+
+
+2026.9 按键修改为CHERRY家矮红轴       使得可以横向打印，减少梯田层纹
+
+<p align="center">
+<img src="assets/v3-whats-new/image16.jpeg" width="390" alt="MaicroDX V3 — 1" />
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image17.png" width="720" alt="MaicroDX V3 — 1" />
+</p>
+
+
+<p align="center">
+<img src="assets/v3-whats-new/image18.png" width="360" alt="2026.10 主控板升级 — 1" />
+<img src="assets/v3-whats-new/image19.jpeg" width="265" alt="2026.10 主控板升级 — 2" />
+<br />
+2026.10 主控板升级
+</p>
+
+
+外接供电 pd诱骗 3.5mm音频输出     (Layout第一版,待测试)
+
+<p align="center">
+<img src="assets/v3-whats-new/image20.jpeg" width="245" alt="丝印图案出处: Pixiv @gzx7302 — 1" />
+<br />
+丝印图案出处: Pixiv @gzx7302
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image21.jpeg" width="430" alt="耳机细节优化 — 1" />
+<br />
+耳机细节优化
+</p>
+
+
+分件拆色打印，装饰螺丝与透明色树脂(经过后处理)
+
+<p align="center">
+<img src="assets/v3-whats-new/image22.png" width="720" alt="耳机侧装饰贴纸（左11 右12.5）黑色为刀切路线: 40x40基准 — 1" />
+<br />
+耳机侧装饰贴纸（左11 右12.5）黑色为刀切路线: 40x40基准
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image23.png" width="720" alt="彩虹亚克力板施工图 — 1" />
+<br />
+彩虹亚克力板施工图
+</p>
+
+
+<p align="center">
+<img src="assets/v3-whats-new/image24.jpeg" width="380" alt="效果图 — 1" />
+<img src="assets/v3-whats-new/image25.jpeg" width="290" alt="效果图 — 2" />
+<br />
+效果图
+</p>
+
+
+<br />
+
+<p align="center">
+<img src="assets/v3-whats-new/image26.jpeg" width="350" alt="2026.7 固件改，增加更多的灯光效果 — 1" />
+<img src="assets/v3-whats-new/image27.jpeg" width="162" alt="2026.7 固件改，增加更多的灯光效果 — 2" />
+<img src="assets/v3-whats-new/image28.jpeg" width="162" alt="2026.7 固件改，增加更多的灯光效果 — 3" />
+<br />
+2026.7 固件改，增加更多的灯光效果
+</p>
+
+
+切换逻辑改为要先按下1P按键
+
+由Arduino IDE编译
+
+<details>
+<summary>展开查看原文固件源码</summary>
+
+```cpp
+/*
+   CH552G 九键 + WS2812 轮盘 + 顶部灯条
+   总灯珠：34
+*/
+
+#include "src/WS2812.h"
+#include "src/userUsbHidMediaKeyboard/USBHIDMediaKeyboard.h"
+
+#define NUM_LEDS        39
+#define TOP_START       8
+#define COLOR_WHITE     255, 255, 255
+#define COLOR_YELLOW    255, 180, 0
+
+__xdata uint8_t ledData[NUM_LEDS * 3];
+bool buttonPrev[9] = {false};
+unsigned long pressTime[8] = {0};
+
+int currentMode = 0;          // 0全白 1彩虹 2选曲 3呼吸
+int prevMode = 0;
+bool lightsDisabled = false;
+
+int brightnessLevel = 10;
+float topBrightness = 0.5f;
+bool topIsBlue = true;
+
+const uint8_t pins[8] = {11, 33, 34, 31, 17, 16, 15, 14};
+const char keys[8]   = {'w', 'e', 'd', 'c', 'x', 'z', 'a', 'q'};
+
+uint8_t rainbowR[8] = {255, 255, 255,   0,   0,   0, 128, 255};
+uint8_t rainbowG[8] = {  0, 128, 255, 255, 255,   0,   0,   0};
+uint8_t rainbowB[8] = {  0,   0,   0,   0, 255, 255, 255, 128};
+
+void getColorFromHue(uint8_t hue, uint8_t *r, uint8_t *g, uint8_t *b) {
+    hue = 255 - hue;
+    if (hue < 85) {
+        *r = 255 - hue * 3; *g = 0; *b = hue * 3;
+    } else if (hue < 170) {
+        hue -= 85; *r = 0; *g = hue * 3; *b = 255 - hue * 3;
+    } else {
+        hue -= 170; *r = hue * 3; *g = 255 - hue * 3; *b = 0;
+    }
+}
+
+// 只写入缓存，不刷新灯带
+void setLED(uint8_t index, uint8_t r, uint8_t g, uint8_t b, float bright) {
+    if (index >= NUM_LEDS) return;
+    uint8_t rr = (uint8_t)(r * bright + 0.5f);
+    uint8_t gg = (uint8_t)(g * bright + 0.5f);
+    uint8_t bb = (uint8_t)(b * bright + 0.5f);
+    ledData[index * 3 + 0] = gg;
+    ledData[index * 3 + 1] = rr;
+    ledData[index * 3 + 2] = bb;
+}
+
+// 统一刷新灯带
+void showLEDs() {
+    neopixel_show_P3_0(ledData, NUM_LEDS * 3);
+}
+
+void updateTopBar(float breathValue) {
+    uint8_t tr, tg, tb;
+    float bright = topBrightness;
+
+    if (currentMode == 3) {
+        // 呼吸模式：白色跟随呼吸
+        tr = 255; tg = 255; tb = 255;
+        bright = topBrightness * breathValue;
+    } 
+    else if (currentMode == 1) {
+        // 彩虹模式：紫色
+        tr = 180; tg = 0; tb = 255;
+    } 
+    else if (topIsBlue) {
+        tr = 0; tg = 150; tb = 255;
+    } else {
+        tr = 255; tg = 0; tb = 0;
+    }
+
+    for (int i = TOP_START; i < NUM_LEDS; i++) {
+        setLED(i, tr, tg, tb, bright);
+    }
+}
+
+void doStartupAnimation() {
+    int delays[8] = {140, 110, 85, 65, 50, 40, 32, 25};
+
+    for (int i = 0; i < 8; i++) {
+        for (float br = 0; br <= 1.0; br += 0.08) {
+            setLED(i, rainbowR[i], rainbowG[i], rainbowB[i], br);
+            showLEDs();
+            delay(5);
+        }
+        delay(delays[i]);
+    }
+    delay(1000);
+    for (float br = 1.0; br >= 0; br -= 0.06) {
+        for (int j = 0; j < 8; j++) {
+            setLED(j, rainbowR[j], rainbowG[j], rainbowB[j], br);
+        }
+        showLEDs();
+        delay(8);}
+    unsigned long startTime = millis();
+    while (millis() - startTime < 2000) {
+        float progress = (millis() - startTime) / 2000.0f;
+        for (int j = 0; j < 8; j++) setLED(j, 255, 255, 255, progress);
+        for (int j = TOP_START; j < NUM_LEDS; j++) setLED(j, 0, 150, 255, progress * 0.5f);
+        showLEDs();
+        delay(10);
+    }
+    for (int j = 0; j < 8; j++) setLED(j, 255, 255, 255, 1.0f);
+    for (int j = TOP_START; j < NUM_LEDS; j++) setLED(j, 0, 150, 255, 0.5f);
+    showLEDs();
+    topIsBlue = true;
+    topBrightness = 0.5f;
+}
+void setup() {
+    USBInit();
+    for (int i = 0; i < 8; i++) pinMode(pins[i], INPUT_PULLUP);
+    pinMode(32, INPUT_PULLUP);
+    pinMode(7, OUTPUT);
+    digitalWrite(7, HIGH);
+    bool specialBoot = !digitalRead(pins[3]) && !digitalRead(pins[4]);
+    if (specialBoot) {
+        doStartupAnimation();
+        for (int step = 25; step >= 0; step--) {
+            float br = step / 25.0f;
+            for (int j = 0; j < 8; j++) setLED(j, 255, 255, 255, br);
+            for (int j = TOP_START; j < NUM_LEDS; j++) setLED(j, 0, 150, 255, br * 0.5f);
+            showLEDs();
+            delay(40);
+        }
+        for (int i = 0; i < NUM_LEDS; i++) setLED(i, 0, 0, 0, 0);
+        showLEDs();
+        lightsDisabled = true;
+        return;
+    }
+    doStartupAnimation();
+    currentMode = 0;
+    prevMode = 0;
+}
+void loop() {
+    if (lightsDisabled) {
+        for (int i = 0; i < NUM_LEDS; i++) setLED(i, 0, 0, 0, 0);
+        showLEDs();
+        delay(100);
+        return;
+    }
+    unsigned long now = millis();
+    bool currentPressed[9];
+    for (int i = 0; i < 8; i++) currentPressed[i] = !digitalRead(pins[i]);
+    currentPressed[8] = !digitalRead(32);
+    // 模式切换 + 亮度
+    if (currentPressed[8]) {
+        if (currentPressed[6] && !buttonPrev[6]) currentMode = 0; // 9+7 全白
+        if (currentPressed[7] && !buttonPrev[7]) currentMode = 1; // 9+8 彩虹
+        if (currentPressed[0] && !buttonPrev[0]) currentMode = 2; // 9+1 选曲
+        if (currentPressed[1] && !buttonPrev[1]) currentMode = 3; // 9+2 呼吸
+
+        if (currentPressed[2] && !buttonPrev[2]) brightnessLevel = min(10, brightnessLevel + 1);
+        if (currentPressed[5] && !buttonPrev[5]) brightnessLevel = max(0, brightnessLevel - 1);
+
+        static bool topUpTriggered = false;
+        static bool topDownTriggered = false;
+
+        if (currentPressed[2] && currentPressed[3]) {
+            if (!topUpTriggered) {
+                topBrightness = min(1.0f, topBrightness + 0.05f);
+                topUpTriggered = true;
+            }
+        } else topUpTriggered = false;
+
+        if (currentPressed[4] && currentPressed[5]) {
+            if (!topDownTriggered) {
+                topBrightness = max(0.0f, topBrightness - 0.05f);
+                topDownTriggered = true;
+            }
+        } else topDownTriggered = false;
+    }
+
+    if (currentMode == 2 && prevMode != 2) {
+        topIsBlue = !topIsBlue;
+    }
+    prevMode = currentMode;
+
+    // 键盘输出
+    for (int i = 0; i < 8; i++) {
+        if (currentPressed[i] != buttonPrev[i]) {
+            buttonPrev[i] = currentPressed[i];
+            if (currentPressed[i]) Keyboard_press(keys[i]);
+            else                   Keyboard_release(keys[i]);
+        }
+    }
+    if (currentPressed[8] != buttonPrev[8]) {
+        buttonPrev[8] = currentPressed[8];
+        if (currentPressed[8]) Keyboard_press('3');
+        else                   Keyboard_release('3');
+    }
+    float wheelBright = brightnessLevel / 10.0f;
+    float breathValue = 1.0f;
+    // ========== 灯光控制 ==========
+    if (currentMode == 0) { // 全白
+        for (int i = 0; i < 8; i++) {
+            if (currentPressed[i]) {
+                // 只在刚按下时记录时间
+                if (pressTime[i] == 0) {
+                    pressTime[i] = now;
+                }
+                setLED(i, COLOR_YELLOW, 1.0f);
+            } else {
+                if (pressTime[i] > 0 && (now - pressTime[i] >= 400)) {
+                    pressTime[i] = 0;
+                }
+                if (pressTime[i] == 0) {
+                    setLED(i, COLOR_WHITE, wheelBright);
+                } else {
+                    // 还在400ms内，继续保持黄色
+                    setLED(i, COLOR_YELLOW, 1.0f);
+                }
+            }
+        }
+    } 
+    else if (currentMode == 1) { // 彩虹
+        static uint8_t hue = 0;
+        hue += 2;
+        for (int i = 0; i < 8; i++) {
+            uint8_t pixelHue = hue + (i * 32);
+            uint8_t r, g, b;
+            getColorFromHue(pixelHue, &r, &g, &b);
+            setLED(i, r, g, b, wheelBright);
+        }
+    } 
+    else if (currentMode == 2) { // 选曲xx
+        setLED(0, 0, 0, 0, 0);
+        setLED(1, 0, 0, 0, 0);
+        setLED(2, 255, 255, 255, wheelBright);
+        setLED(3, 255, 0, 0, wheelBright);
+        setLED(4, 0, 0, 255, wheelBright);
+        setLED(5, 255, 255, 255, wheelBright);
+        setLED(6, 0, 0, 0, 0);
+        setLED(7, 0, 0, 0, 0);
+    } 
+    else if (currentMode == 3) { // 呼吸
+        static unsigned long breathStart = 0;
+        if (breathStart == 0) breathStart = now;
+
+        unsigned long t = (now - breathStart) % 2000;
+        breathValue = (t < 1000) ? (t / 1000.0f) : (1.0f - (t - 1000) / 1000.0f);
+
+        for (int i = 0; i < 8; i++) {
+            setLED(i, COLOR_WHITE, breathValue * wheelBright);
+        }
+    }
+
+    // 更新顶部
+    updateTopBar(breathValue);
+
+    // 每帧只刷新一次灯带
+    showLEDs();
+
+    delay(5);  
+}
+```
+
+</details>
+
+[原版 PDF](https://github.com/user-attachments/files/34226053/what.s.new.1.pdf)
 
 
 
