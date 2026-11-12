@@ -74,7 +74,7 @@ DX下半部分同理，为灯槽布光预留空间
 <p align="center">
 <img src="assets/v3-whats-new/image11.jpeg" width="180" alt="在此非常感谢和音屋提供的帮助!! — 1" />
 <br />
-在此非常感谢和音屋提供的帮助!!
+在此感谢由和音屋提供的帮助
 </p>
 
 
