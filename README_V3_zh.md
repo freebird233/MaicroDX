@@ -33,16 +33,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 <br>
 
-后处理
------
 
-如果打印后发现层纹过于明显，则需要视情况进行打磨<br>
-打磨需要选购不同目数的砂纸，目数越低越粗糙，从粗逐步换到细
-<div align="center"><img width="300"  alt="0265b2b383c8f8d9e084716329cb6e13" src="https://github.com/user-attachments/assets/b3544391-e254-4a38-a017-baae88b64e66" />
-<br>
-经过打磨处理后的外框 </div>
-<br>
-<br><br><br>
 
 # 采购器件
 除了电路板（BOM表）的器件外 还有另外需要购买的内容如下：
@@ -111,7 +102,7 @@ WCHISPStudio程序界面</div><br><br>
   烧录程序找不到设备 ---> 短接BOOT上电，重新烧录固件 ---> 检查typeC母座焊盘GND 5v D+ D- 是否连锡，漏锡或更换单片机 <br> <br>
   电脑弹出通知： **无法识别的USB硬件**  ---> typeC母座焊盘 D+ D- 连锡，漏锡或更换单片机<br> <br>
   电脑弹出通知： **硬件超出电流最大载荷** ---> 主板短路 <br> <br>
-  接入耳机后工作灯闪烁 无音频输出 ---> 重焊U4 <br> <br>
+  接入耳机后工作灯闪烁 无音频输出 && 插入耳机后 工作灯亮后熄灭  ---> 重焊U4 <br> <br>
   
   
 <br>
@@ -270,19 +261,34 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <br><br>
 <br><br>
 
-# 组装
-本节将介绍Maicrodx的框体组装流程，推荐的胶水是ab环氧胶+美纹胶定型。
+# 总装
+本节将介绍Maicrodx的框体组装流程，推荐的胶水是ab环氧胶+美纹胶定型。<br><br>
+使用的工具: 电烙铁、热熔胶枪、剥线钳、压线钳、轧带、魔术双面胶
+
+<br><br><br><br>
 
 框体
 ----
-<div align="center"><img width="535"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/12715dd5-4319-4b0d-ae7e-50c7b4b8cefe" />
-   <br>爆炸图与粘合顺序
-
+<div align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/354b0d7a-d874-4eb4-85be-f2b8f98e27a5" /> 
+   <br>爆炸图
+<br><br><br><br><br><br>
  
+
+<div align="center"><img width="500"  alt="0265b2b383c8f8d9e084716329cb6e13" src="https://github.com/user-attachments/assets/b3544391-e254-4a38-a017-baae88b64e66" />
+<br>
+如果打印后发现层纹过于明显，则需要视情况进行打磨<br>
+打磨需要选购不同目数的砂纸，目数越低越粗糙，从粗逐步换到细 <br>
+(可参考kigurumi的后处理流程，但不需要上漆) </div>
+<br>
+<br><br><br>
+ 
+ <br><br>
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/12715dd5-4319-4b0d-ae7e-50c7b4b8cefe" /> <img width="450"  alt="ec7ebb02e17c9b3cf94ab1edd62b7e8f" src="https://github.com/user-attachments/assets/7cf5b4c2-63f7-4739-bcb3-e80b200b8e6b" /> 
+<br>按照图中的顺序逐步粘合框体，在ab胶水凝固前。用美纹胶布定型
+
+
+
  <br><br><br><br>
-
-
-
 <img width="400" alt="a1fdb5a11cb966918c32aa63c62052e1" src="https://github.com/user-attachments/assets/81f639f1-d645-4597-b304-6bfd70f5e308" /> <img width="400"  alt="a831ab3301552025a71e331923ce9287" src="https://github.com/user-attachments/assets/aafa15a0-cf87-41aa-aba7-49db1ae3a105" />
 <br>9号键位于框体左侧，安装时不需要胶水，对齐到合适的角度后推入卡死即可. 电烙铁焊接导线后，用压线钳接2P插头.
 
@@ -291,14 +297,22 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 
 <img width="450" alt="11d7263bc8986843a74345e70c14218e" src="https://github.com/user-attachments/assets/aec057f4-e420-4b95-a03c-bb1dec6f5953" /> <img width="450" alt="c89b90ba149ec5b63a2cfed46521ef2f" src="https://github.com/user-attachments/assets/81f3f4d0-50bf-4076-89ee-0e476ddc1cbc" />
 <br>取1mm左右宽的魔术双面胶，修剪成正方形小块贴在框体的定位脚上，安装轮盘
-<br><br><br><br>
+<br><br><br><br></div>
 
+布线
+----
 
-<img width="600"  alt="384697ccd015941b86f4e218af7f62a3" src="https://github.com/user-attachments/assets/f459b332-588b-4e9c-af25-0b5453a05f66" />
+<img width="450"  alt="384697ccd015941b86f4e218af7f62a3" src="https://github.com/user-attachments/assets/f459b332-588b-4e9c-af25-0b5453a05f66" /><img width="450"  alt="2a85324d70a4aae59552eb5c8ac91e85" src="https://github.com/user-attachments/assets/588a0484-36b6-4e01-99ae-ddc05365c71d" />
+
 
 <br>**1** ---> ws2812头灯
-<br><br>**2** ---> cob灯条
-<br><br>**3** ---> 1P按键
+<br>**2** ---> cob灯条
+<br>**3** ---> 1P按键
+<br><br>导线之间的连接使用压线钳和扣线帽，可以提高效率。如果没有则使用电烙铁替代（做好绝缘）
+<br> 魔术双面胶将主控板固定在一侧，随后用适量热熔胶辅助走线
+<br>1P按键的线段在另一侧，可从框体的内顶+热熔胶走线到另一侧下主控板
+
+
 <br><br><br><br>
 
 彩虹装饰框
@@ -327,7 +341,7 @@ cob灯带是通过自带的背胶固定在框体轮盘上的，走主控的dcdc�
 <img width="280"  alt="image" src="https://github.com/user-attachments/assets/2cdbfab3-d747-48be-8b13-59c268d1b47f" />
 <img width="400" alt="3926b9044590883553583c591ca888d2" src="https://github.com/user-attachments/assets/b1a4e1f2-e0be-401a-91fc-5e04bf457f5f" />
 <img width="230"  alt="cefab52c16c0a22639bb79ff11d2c6f9" src="https://github.com/user-attachments/assets/30383f4b-40be-4939-bf0a-f74a5c2dd241" />
-<br>用光固化制作透明外壳能获得更好效果<br><br>
+<br>用光固化工艺能制作出透明度极好的外壳，但这会需要十分繁琐的后处理流程： 打印 清洗 二固 拆支撑 打磨 抛光 光油等<br><br>
 </div>
 <br>
 <br>
