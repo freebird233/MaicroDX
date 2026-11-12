@@ -515,14 +515,14 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 
 # 主控板贴片
-
+<br>
+在Release页下载gerber文件
 <br>
 <br>
-参考该网站贴片，能提高一些效率<br>
 
-[V3交互式BOM.html](https://github.com/user-attachments/files/34361656/V3.BOM.html)
+> 没有板厚与颜色要求
+<br><br>
 
-<br>
 <br>
 <div align="center">有部分器件不是必须的<br> 焊后的主控板如图所示。烧录程序后,上电并接入耳机时应有三个灯常亮<br>
 <img width="280"  alt="8c8c32762c9862159e4f02e3d143df3d" src="https://github.com/user-attachments/assets/fc67a035-1699-4933-bede-161580ee5546" /><img width="500"  alt="dcb986164ce6d01910a24e40892780cf" src="https://github.com/user-attachments/assets/ddc6c8b3-db79-4d54-a223-659470e285bc" />
