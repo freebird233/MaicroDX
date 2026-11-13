@@ -521,6 +521,7 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <br>
 
 > 没有板厚与颜色要求
+> 为了便于复刻，电阻与电容已尽可能地使用了 0805封装
 <br><br>
 
 <br>
