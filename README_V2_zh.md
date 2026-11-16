@@ -30,7 +30,7 @@ https://mobile.yangkeduo.com/goods2.html?ps=BxALLyKNBC
 :USB 9键可烧写键盘 33.37元
 https://e.tb.cn/h.hByhHTJPLsIOH7V?tk=ob3u4ppTyxL
 <br>
-（向店家要求发成品pcb成品板+数据线可以减少工作量，且价格似乎还能谈）
+（向店家要求发成品pcb成品板+数据线可以便宜2元左右，同时减少后续的工作量）
 <br>
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/2eeb53ed-5334-4e8b-ad33-d457dd837c52" />
 <img width="200"  alt="tb_image_share_1757697274791 jpg" src="https://github.com/user-attachments/assets/dd938c2f-1f32-437b-aa07-9bfcfbf8c93e" />
