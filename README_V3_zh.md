@@ -505,8 +505,8 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <img width="100"  alt="image" src="https://github.com/user-attachments/assets/b1845ebf-d027-4e17-94d1-083cf48674c6" /> 自攻螺丝 https://e.tb.cn/h.j6yBLOpGoLmfVUH?tk=jGQt6YpXLq4  (可选，装饰用)
 <br>
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/de1289ad-a48f-4fd2-b7ba-acf30c2b10e4" /> 矮轴 https://e.tb.cn/h.jRXogoRPmuNxnyg?tk=RaZK6Yp5Pvr
-
-
+<br>
+FPC软排线 12P 20cm 反向
 
 <br>
 <br>
