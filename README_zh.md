@@ -9,7 +9,7 @@
 
 >  这是一个基于模型分享的开源项目，主控集成快充与音频输出。按钮通过hid键控信号输入，您需要自行解决软件方面的问题
 
-> 特点: 由平板提供触摸。简易部署，无需五金件。
+> 特点: 由平板提供触摸。简易部署，无需五金件。尺寸兼容性强。
 
 
 <br> 
@@ -80,7 +80,7 @@ __创意来源__
 
 <div align="center">
     
-| <div align="center">版本 | <div align="center">主要变化 | <div align="center">工作量 | <div align="center">电路部分 | <div align="center">打印板要求 |
+| <div align="center">版本 | <div align="center">主要变化 | <div align="center">复刻工作量 | <div align="center">电路部分 | <div align="center">打印板要求 |
 | :--- | :--- |  :--- |  :--- |  :--- | 
 |**V1** (2025.08)|<div align="center">雏形确定|sw改模 打印 装配 飞线 涂色| 成品板x1| <div align="center">180 |
 |**V2** (2025.11)|<div align="center">添加可调节滑块,结构优化|<div align="center">打印 装配 飞线| 成品板x1| <div align="center">180~256 |
