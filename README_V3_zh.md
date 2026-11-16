@@ -507,7 +507,10 @@ https://makerworld.com.cn/zh/models/1561531 <br>
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/de1289ad-a48f-4fd2-b7ba-acf30c2b10e4" /> 矮轴 https://e.tb.cn/h.jRXogoRPmuNxnyg?tk=RaZK6Yp5Pvr
 <br>
 FPC软排线 12P 20cm 反向
+<br>
+<br>
 
+请注意，电烙铁 吸膏，加热台等工具没有在此表格内。由于U4(ate400q)封装过小，贴片时**使用加热台回流焊是必须的**。
 <br>
 <br>
 <br>
